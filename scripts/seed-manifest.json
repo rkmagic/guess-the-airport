@@ -1,0 +1,50 @@
+[
+  {
+    "id": "AMS",
+    "iata": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "files": [
+      "Amsterdam Schengen Area Passport Entry Stamp 2014-09-28 1411863814.jpg",
+      "De-Schiphol.ogg",
+      "1 April-grappen In het tijdschrift Het Leven van rond 1 april 1933 verscheen een vals artikel, SFA022007299.jpg"
+    ]
+  },
+  {
+    "id": "JFK",
+    "iata": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "United States",
+    "files": [
+      "Arrival into John F. Kennedy International Airport (JFK), New York City, New York (U.S.A.) (53336658731).jpg",
+      "Early Morning View of Jet Bridges at JFK's Terminal 7 in Queens, NY.jpg",
+      "Entrance to American Express Centurion Lounge at JFK NYC airport (2022).jpg"
+    ]
+  },
+  {
+    "id": "NRT",
+    "iata": "NRT",
+    "name": "Narita International Airport",
+    "city": "Tokyo",
+    "country": "Japan",
+    "files": [
+      "Arrival at Tokyo Narita Airport.jpg",
+      "J-VIS gate J.svg",
+      "Narita Terminal Two.jpg"
+    ]
+  },
+  {
+    "id": "SFO",
+    "iata": "SFO",
+    "name": "San Francisco International Airport",
+    "city": "San Francisco",
+    "country": "United States",
+    "files": [
+      "2022-03-27 13 19 28 Sign along the roadway leading away from the International Terminal at San Francisco International Airport in San Mateo County, California.jpg",
+      "Bay Area Sports Hall of Fame plaques at SFO.jpg",
+      "No TNC Parking or Waiting sign, San Francisco International Airport cell phone lot.jpg"
+    ]
+  }
+]

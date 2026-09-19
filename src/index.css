@@ -1,0 +1,8 @@
+/* Reset leftovers — app styles live in App.css */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
