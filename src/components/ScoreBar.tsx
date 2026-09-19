@@ -10,7 +10,7 @@ export function ScoreBar({ progress, roundLabel, flashMiles }: Props) {
   return (
     <header className="score-bar">
       <div className="score-brand">
-        <span className="brand-mark">GateGuess</span>
+        <span className="brand-mark">AeroGuesser</span>
         {roundLabel && <span className="round-label">{roundLabel}</span>}
       </div>
       <div className="score-stats">

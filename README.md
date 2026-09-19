@@ -1,4 +1,4 @@
-# GateGuess
+# AeroGuesser
 
 Guess the airport from ground-level photos — curb, taxi rank, terminal interior.
 

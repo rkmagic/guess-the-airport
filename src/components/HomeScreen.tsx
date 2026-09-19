@@ -14,7 +14,7 @@ export function HomeScreen({ progress, airportCount, onPlay, onCredits }: Props)
       <div className="home-atmosphere" aria-hidden />
       <div className="home-content">
         <p className="home-eyebrow">Ground-level · no codes · no silhouettes</p>
-        <h1 className="home-brand">GateGuess</h1>
+        <h1 className="home-brand">AeroGuesser</h1>
         <p className="home-lede">
           One photo from the curb, the taxi rank, or the terminal. How few
           reveals do you need?
