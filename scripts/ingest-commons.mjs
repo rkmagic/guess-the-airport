@@ -75,10 +75,50 @@ const BANK = [
   { id: 'YVR', iata: 'YVR', name: 'Vancouver International Airport', city: 'Vancouver', country: 'Canada', queries: ['Vancouver International Airport Terminal', 'Vancouver Airport Terminal', 'YVR Airport Terminal'] },
   { id: 'MEX', iata: 'MEX', name: 'Mexico City International Airport', city: 'Mexico City', country: 'Mexico', queries: ['Mexico City Airport Terminal', 'Aeropuerto Ciudad de México Terminal', 'Benito Juárez Airport Terminal'] },
   { id: 'GRU', iata: 'GRU', name: 'São Paulo/Guarulhos International Airport', city: 'São Paulo', country: 'Brazil', queries: ['Guarulhos Airport Terminal', 'São Paulo Guarulhos Terminal', 'GRU Airport Terminal'] },
+
+  // —— Europe expansion ——
+  { id: 'LIS', iata: 'LIS', name: 'Lisbon Humberto Delgado Airport', city: 'Lisbon', country: 'Portugal', queries: ['Lisbon Airport Terminal interior', 'Aeroporto de Lisboa Terminal', 'Lisbon Airport check-in'] },
+  { id: 'OSL', iata: 'OSL', name: 'Oslo Gardermoen Airport', city: 'Oslo', country: 'Norway', queries: ['Oslo Airport Terminal interior', 'Oslo Gardermoen Terminal', 'Oslo Airport check-in'] },
+  { id: 'ARN', iata: 'ARN', name: 'Stockholm Arlanda Airport', city: 'Stockholm', country: 'Sweden', queries: ['Stockholm Arlanda Terminal interior', 'Arlanda Airport Terminal', 'Arlanda check-in hall'] },
+  { id: 'HEL', iata: 'HEL', name: 'Helsinki-Vantaa Airport', city: 'Helsinki', country: 'Finland', queries: ['Helsinki Airport Terminal interior', 'Helsinki-Vantaa Terminal', 'Helsinki Airport check-in'] },
+  { id: 'WAW', iata: 'WAW', name: 'Warsaw Chopin Airport', city: 'Warsaw', country: 'Poland', queries: ['Warsaw Chopin Airport Terminal', 'Warsaw Airport Terminal interior', 'Lotnisko Chopina Terminal'] },
+  { id: 'PRG', iata: 'PRG', name: 'Václav Havel Airport Prague', city: 'Prague', country: 'Czech Republic', queries: ['Prague Airport Terminal interior', 'Václav Havel Airport Terminal', 'Praha Airport Terminal'] },
+  { id: 'BUD', iata: 'BUD', name: 'Budapest Ferenc Liszt International Airport', city: 'Budapest', country: 'Hungary', queries: ['Budapest Airport Terminal 2 interior', 'Budapest Liszt Ferenc Airport Terminal', 'Budapest Airport departure hall'] },
+  { id: 'MAN', iata: 'MAN', name: 'Manchester Airport', city: 'Manchester', country: 'United Kingdom', queries: ['Manchester Airport Terminal interior', 'Manchester Airport Terminal 2', 'Manchester Airport check-in'] },
+  { id: 'EDI', iata: 'EDI', name: 'Edinburgh Airport', city: 'Edinburgh', country: 'United Kingdom', queries: ['Edinburgh Airport Terminal interior', 'Edinburgh Airport Terminal', 'Edinburgh Airport check-in'] },
+  { id: 'GVA', iata: 'GVA', name: 'Geneva Airport', city: 'Geneva', country: 'Switzerland', queries: ['Geneva Airport check-in hall', 'Aéroport Genève Terminal interior', 'Geneva Airport departure hall'] },
+
+  // —— Middle East & Africa expansion ——
+  { id: 'ADD', iata: 'ADD', name: 'Addis Ababa Bole International Airport', city: 'Addis Ababa', country: 'Ethiopia', queries: ['Addis Ababa Bole Airport Terminal', 'Bole Airport Terminal interior', 'Addis Ababa Airport Terminal'] },
+  { id: 'NBO', iata: 'NBO', name: 'Jomo Kenyatta International Airport', city: 'Nairobi', country: 'Kenya', queries: ['Jomo Kenyatta Airport Terminal', 'Nairobi Airport Terminal interior', 'JKIA Terminal'] },
+  { id: 'LOS', iata: 'LOS', name: 'Murtala Muhammed International Airport', city: 'Lagos', country: 'Nigeria', queries: ['Lagos Airport Terminal', 'Murtala Muhammed Airport Terminal', 'Lagos Airport interior'] },
+
+  // —— Asia-Pacific expansion ——
+  { id: 'CGK', iata: 'CGK', name: 'Soekarno–Hatta International Airport', city: 'Jakarta', country: 'Indonesia', queries: ['Soekarno Hatta Airport Terminal', 'Jakarta Airport Terminal interior', 'CGK Terminal 3'] },
+  { id: 'MNL', iata: 'MNL', name: 'Ninoy Aquino International Airport', city: 'Manila', country: 'Philippines', queries: ['Ninoy Aquino Airport Terminal', 'Manila Airport Terminal interior', 'NAIA Terminal'] },
+  { id: 'SGN', iata: 'SGN', name: 'Tan Son Nhat International Airport', city: 'Ho Chi Minh City', country: 'Vietnam', queries: ['Tan Son Nhat Airport Terminal', 'Ho Chi Minh Airport Terminal', 'SGN Airport Terminal'] },
+  { id: 'HAN', iata: 'HAN', name: 'Noi Bai International Airport', city: 'Hanoi', country: 'Vietnam', queries: ['Noi Bai Airport Terminal', 'Hanoi Airport Terminal interior', 'HAN Airport Terminal'] },
+  { id: 'CAN', iata: 'CAN', name: 'Guangzhou Baiyun International Airport', city: 'Guangzhou', country: 'China', queries: ['Guangzhou Baiyun Airport Terminal', 'Baiyun Airport Terminal interior', 'CAN Airport Terminal'] },
+  { id: 'PEK', iata: 'PEK', name: 'Beijing Capital International Airport', city: 'Beijing', country: 'China', queries: ['Beijing Capital Airport Terminal 3', 'Beijing Airport Terminal interior', 'PEK Terminal 3'] },
+  { id: 'HYD', iata: 'HYD', name: 'Rajiv Gandhi International Airport', city: 'Hyderabad', country: 'India', queries: ['Hyderabad Airport Terminal', 'Rajiv Gandhi Airport Terminal', 'HYD Airport Terminal interior'] },
+  { id: 'PER', iata: 'PER', name: 'Perth Airport', city: 'Perth', country: 'Australia', queries: ['Perth Airport Terminal interior', 'Perth Airport Terminal', 'Perth Airport check-in'] },
+  { id: 'BNE', iata: 'BNE', name: 'Brisbane Airport', city: 'Brisbane', country: 'Australia', queries: ['Brisbane Airport Terminal interior', 'Brisbane Airport Terminal', 'Brisbane Airport check-in'] },
+
+  // —— Americas expansion ——
+  { id: 'EZE', iata: 'EZE', name: 'Ministro Pistarini International Airport', city: 'Buenos Aires', country: 'Argentina', queries: ['Ezeiza Airport Terminal', 'Buenos Aires Ezeiza Terminal', 'Aeropuerto Ezeiza Terminal'] },
+  { id: 'SCL', iata: 'SCL', name: 'Arturo Merino Benítez International Airport', city: 'Santiago', country: 'Chile', queries: ['Santiago Airport Terminal', 'Arturo Merino Benítez Terminal', 'SCL Airport Terminal'] },
+  { id: 'BOG', iata: 'BOG', name: 'El Dorado International Airport', city: 'Bogotá', country: 'Colombia', queries: ['El Dorado Airport Terminal', 'Bogotá Airport Terminal', 'BOG Airport Terminal interior'] },
+  { id: 'LIM', iata: 'LIM', name: 'Jorge Chávez International Airport', city: 'Lima', country: 'Peru', queries: ['Jorge Chávez Airport Terminal', 'Lima Airport Terminal', 'LIM Airport Terminal'] },
+  { id: 'GIG', iata: 'GIG', name: 'Rio de Janeiro/Galeão International Airport', city: 'Rio de Janeiro', country: 'Brazil', queries: ['Galeão Airport Terminal', 'Rio Galeão Terminal', 'GIG Airport Terminal'] },
+  { id: 'EWR', iata: 'EWR', name: 'Newark Liberty International Airport', city: 'Newark', country: 'United States', queries: ['Newark Airport Terminal interior', 'Newark Liberty Terminal', 'EWR Airport Terminal'] },
+  { id: 'IAH', iata: 'IAH', name: 'George Bush Intercontinental Airport', city: 'Houston', country: 'United States', queries: ['Houston Intercontinental Airport Terminal', 'Bush Airport Terminal interior', 'IAH Airport Terminal'] },
+  { id: 'PHX', iata: 'PHX', name: 'Phoenix Sky Harbor International Airport', city: 'Phoenix', country: 'United States', queries: ['Phoenix Sky Harbor Terminal interior', 'Sky Harbor Airport Terminal', 'PHX Airport Terminal'] },
+  { id: 'MSP', iata: 'MSP', name: 'Minneapolis–Saint Paul International Airport', city: 'Minneapolis', country: 'United States', queries: ['Minneapolis Airport Terminal interior', 'MSP Airport Terminal', 'Minneapolis Saint Paul Terminal'] },
+  { id: 'MCO', iata: 'MCO', name: 'Orlando International Airport', city: 'Orlando', country: 'United States', queries: ['Orlando International Airport Terminal atrium', 'Orlando MCO Terminal interior', 'Orlando Airport check-in hall'] },
 ]
 
 const EXCLUDE =
-  /map|logo|flag|diagram|plan|svg|aerial|satellite|runway from|cockpit|livery|tail fin|in flight|bird'?s.?eye|from above|radar|chart|stamp|passport|ghost|metro |train|station|construction|aushub|sanitizer|chocolate|boutros|esenboga|van wyck|highway|expressway|parking garage|car park|wiki|stansted|cavern city|melbourne,? florida|lanseria|east london airport|baustelle|mcdonald|catholic chapel|texrail|hangar terminal|carparks|bus ticket|em constru/i
+  /map|logo|flag|diagram|plan|svg|aerial|satellite|runway from|cockpit|livery|tail fin|in flight|bird'?s.?eye|from above|radar|chart|stamp|passport|ghost|metro |train|station|construction|aushub|sanitizer|chocolate|boutros|esenboga|van wyck|highway|expressway|parking garage|car park|wiki|stansted|cavern city|melbourne,? florida|lanseria|east london airport|baustelle|mcdonald|catholic chapel|texrail|hangar terminal|carparks|bus ticket|em constru|atatuerk|ataturk|fever check|1940|from airplane|window seat|apron|banner|smoking lounge|volcano chaos|exclusive books|internet kiosk|african swine|asheville|arex|dublin airport|heathrow|dulles|mccarran|limatambo|mariño|marino|aircraft tails|dhl cargo|birds winging|coronavirus|wheelchair|fornebu|ritazza|aiurport|fields \(distant/i
 
 const INCLUDE =
   /airport|terminal|aeroporto|aéroport|flughafen|aeropuerto|havaliman|hall|concourse|check.?in|arrival|depart|gate |curbside|lobby|baggage|plaza|landside/i

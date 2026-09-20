@@ -22,7 +22,7 @@ Photos are hotlinked from Wikimedia Commons. Attribution (author, license, sourc
 
 ## Airport bank
 
-~50 major hubs in `public/data/airports.json`. Expand or refresh with:
+~80 major hubs in `public/data/airports.json`. Expand or refresh with:
 
 ```bash
 npm run ingest                 # skip airports that already have ≥2 photos

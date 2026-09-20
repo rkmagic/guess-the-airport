@@ -1,5 +1,6 @@
 import type { Progress } from '../game/storage'
 import { ROUNDS_PER_SESSION } from '../game/scoring'
+import { ShareLink } from './ShareLink'
 
 type Props = {
   progress: Progress
@@ -39,6 +40,7 @@ export function HomeScreen({ progress, airportCount, onPlay, onCredits }: Props)
             <strong>{progress.bestStreak}</strong>
           </div>
         </div>
+        <ShareLink />
         <button type="button" className="btn btn-ghost" onClick={onCredits}>
           Photo credits
         </button>

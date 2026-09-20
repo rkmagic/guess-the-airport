@@ -792,6 +792,10 @@ input {
   border-top: 1px solid var(--line);
 }
 
+.home-content > .share-link {
+  margin-top: 0.25rem;
+}
+
 .share-link__label {
   margin: 0 0 0.4rem;
   font-size: 0.7rem;

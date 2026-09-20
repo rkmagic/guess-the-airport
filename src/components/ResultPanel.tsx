@@ -47,8 +47,8 @@ export function ResultPanel({ round, onContinue }: Props) {
       {!correct && (
         <p className="result-score">Streak reset · 0 miles this round</p>
       )}
-      <Attribution assets={airport.images} compact />
       <ShareLink text={shareText} />
+      <Attribution assets={airport.images} compact />
       <button type="button" className="btn btn-primary btn-block" onClick={onContinue}>
         Continue
       </button>
