@@ -11,7 +11,14 @@ type Props = {
 export function HomeScreen({ progress, airportCount, onPlay, onCredits }: Props) {
   return (
     <div className="screen home-screen">
-      <div className="home-atmosphere" aria-hidden />
+      <div className="home-atmosphere" aria-hidden>
+        <div className="home-stars home-stars--far" />
+        <div className="home-stars home-stars--near" />
+        <div className="home-horizon" />
+        <div className="home-runway" />
+        <div className="home-plane" />
+        <div className="home-plane-trail" />
+      </div>
       <div className="home-content">
         <p className="home-eyebrow">Ground-level · no codes · no silhouettes</p>
         <h1 className="home-brand">AeroGuesser</h1>

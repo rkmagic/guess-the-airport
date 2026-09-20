@@ -1,7 +1,7 @@
 import type { Airport } from '../data/airports'
 import {
   milestoneBonus,
-  pointsForRevealIndex,
+  pointsForGuess,
   ROUNDS_PER_SESSION,
 } from './scoring'
 import { loadProgress, saveProgress, type Progress } from './storage'
@@ -15,6 +15,7 @@ export type RoundState = {
   wrongAttempts: number
   pointsEarned: number
   bonusEarned: number
+  hintUsed: boolean
 }
 
 export type SessionState = {
@@ -46,6 +47,7 @@ export function createSession(airports: Airport[]): SessionState {
       wrongAttempts: 0,
       pointsEarned: 0,
       bonusEarned: 0,
+      hintUsed: false,
     })),
     index: 0,
     sessionMiles: 0,
@@ -76,6 +78,19 @@ export function revealNext(s: SessionState): SessionState {
   return { ...s, rounds }
 }
 
+export function canUseHint(round: RoundState): boolean {
+  return round.outcome === null && !round.hintUsed
+}
+
+export function useHint(s: SessionState): SessionState {
+  const round = currentRound(s)
+  if (!round || !canUseHint(round)) return s
+  const rounds = s.rounds.map((r, i) =>
+    i === s.index ? { ...r, hintUsed: true } : r,
+  )
+  return { ...s, rounds }
+}
+
 export function submitGuess(s: SessionState, airportId: string): SessionState {
   const round = currentRound(s)
   if (!round || round.outcome !== null) return s
@@ -87,7 +102,7 @@ export function submitGuess(s: SessionState, airportId: string): SessionState {
     return { ...s, rounds }
   }
 
-  const points = pointsForRevealIndex(round.photoIndex)
+  const points = pointsForGuess(round.photoIndex, round.hintUsed)
   const nextStreak = s.progress.currentStreak + 1
   const bonus = milestoneBonus(nextStreak)
   const progress: Progress = {

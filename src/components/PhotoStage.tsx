@@ -20,8 +20,15 @@ export function PhotoStage({ images, photoIndex, dimmed }: Props) {
     return <div className="photo-stage photo-stage--empty">No photo</div>
   }
 
+  const showDots = photoIndex > 0
+
   return (
     <div className={`photo-stage${dimmed ? ' is-dimmed' : ''}`}>
+      {!loaded && (
+        <div className="photo-loader" aria-hidden>
+          <span className="photo-loader__ring" />
+        </div>
+      )}
       {prevSrc && prevSrc !== image.thumbUrl && (
         <img className="photo-stage__img is-exit" src={prevSrc} alt="" />
       )}
@@ -35,14 +42,16 @@ export function PhotoStage({ images, photoIndex, dimmed }: Props) {
           setPrevSrc(image.thumbUrl)
         }}
       />
-      <div className="photo-dots" aria-label={`Photo ${photoIndex + 1} of ${images.length}`}>
-        {images.map((_, i) => (
-          <span
-            key={i}
-            className={`photo-dot${i <= photoIndex ? ' is-on' : ''}${i === photoIndex ? ' is-current' : ''}`}
-          />
-        ))}
-      </div>
+      {showDots && (
+        <div className="photo-dots" aria-label={`Photo ${photoIndex + 1} of ${images.length}`}>
+          {images.map((_, i) => (
+            <span
+              key={i}
+              className={`photo-dot${i <= photoIndex ? ' is-on' : ''}${i === photoIndex ? ' is-current' : ''}`}
+            />
+          ))}
+        </div>
+      )}
     </div>
   )
 }
