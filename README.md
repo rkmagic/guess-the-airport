@@ -1,30 +1,36 @@
 # AeroGuesser
 
-Guess the airport from ground-level photos — curb, taxi rank, terminal interior.
+Guess the airport from ground-level photos — curb, taxi rank, or terminal interior. No aerial shots, no runway silhouettes, no airport codes in the picture.
 
-## Play
+**Play:** [guess-the-airport.vercel.app](https://guess-the-airport.vercel.app)
 
-```bash
-npm install
-npm run ingest   # builds public/data/airports.json from Wikimedia Commons
-npm run dev
-```
+## How to play
 
-## How it works
+1. You see one photo of an airport.
+2. Type a guess (airport name, city, or IATA code) using autocomplete.
+3. Stuck? Reveal up to two more photos of the same airport (three total).
+4. Skip if you need to move on — that resets your streak.
+5. Fewer reveals earn more miles. Streak bonuses kick in at 5, 10, and 20 correct in a row.
 
-1. See one photo
-2. Guess via airport name / IATA autocomplete
-3. **Reveal** up to 2 more photos (3 total) if stuck
-4. **Skip** resets your streak
-5. Fewer reveals = more miles; streaks hit bonuses at 5 / 10 / 20
+A session is a short run of rounds. Miles and best streak stay on your device.
 
-Photos are hotlinked from Wikimedia Commons. Attribution (author, license, source) is stored at ingest and shown in-app.
+## Photos and licensing
 
-## Airport bank
+All photos come from [Wikimedia Commons](https://commons.wikimedia.org/). They are not hosted by this project; the game loads them directly from Commons.
 
-~80 major hubs in `public/data/airports.json`. Expand or refresh with:
+Each image is used under the license chosen by its uploader. That is usually one of:
 
-```bash
-npm run ingest                 # skip airports that already have ≥2 photos
-node scripts/clean-bank.mjs    # drop known-bad titles and refill gaps
-```
+- Creative Commons Attribution (CC BY)
+- Creative Commons Attribution-ShareAlike (CC BY-SA)
+- CC0 / public domain
+- Other free licenses Commons accepts
+
+For every photo shown, the game displays:
+
+- Title (with a link back to the Commons file page)
+- Author / photographer credit
+- License name
+
+That credit appears in the app so photographers and license terms stay visible while you play. If you reuse a photo elsewhere, follow the license on its Commons file page (credit the author, link the license, and share-alike when the license requires it).
+
+This project does not claim ownership of the photographs.

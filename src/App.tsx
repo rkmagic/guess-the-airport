@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { track } from '@vercel/analytics'
 import { loadAirports, type Airport } from './data/airports'
 import { HomeScreen } from './components/HomeScreen'
 import { PlayScreen, createSession } from './components/PlayScreen'
@@ -25,8 +26,17 @@ export default function App() {
       .catch((e: Error) => setError(e.message))
   }, [])
 
+  function openRules(source: 'home' | 'end') {
+    if (!airports) return
+    const roundCount = Math.min(ROUNDS_PER_SESSION, airports.length)
+    track('play_clicked', { source, roundCount })
+    setShowRules(true)
+  }
+
   function startPlay() {
     if (!airports?.length) return
+    const roundCount = Math.min(ROUNDS_PER_SESSION, airports.length)
+    track('lets_go_clicked', { roundCount })
     const s = createSession(airports)
     setSession(s)
     setProgress(s.progress)
@@ -69,6 +79,13 @@ export default function App() {
           setProgress(s.progress)
         }}
         onFinished={(s) => {
+          const correctCount = s.rounds.filter((r) => r.outcome === 'correct').length
+          track('session_finished', {
+            correctCount,
+            totalRounds: s.rounds.length,
+            sessionMiles: s.sessionMiles,
+            peakStreak: s.sessionPeakStreak,
+          })
           setSession(s)
           setProgress(s.progress)
           setView('end')
@@ -90,7 +107,7 @@ export default function App() {
           peakStreak={session.sessionPeakStreak}
           correctCount={correctCount}
           totalRounds={session.rounds.length}
-          onAgain={() => setShowRules(true)}
+          onAgain={() => openRules('end')}
           onHome={() => {
             setSession(null)
             setView('home')
@@ -106,7 +123,7 @@ export default function App() {
       <HomeScreen
         progress={progress}
         airportCount={airports.length}
-        onPlay={() => setShowRules(true)}
+        onPlay={() => openRules('home')}
       />
       {rulesDialog}
     </>
