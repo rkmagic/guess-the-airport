@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { track } from '@vercel/analytics'
+import { track } from './analytics'
 import { loadAirports, type Airport } from './data/airports'
 import { HomeScreen } from './components/HomeScreen'
 import { PlayScreen, createSession } from './components/PlayScreen'
