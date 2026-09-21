@@ -1,16 +1,16 @@
 /**
  * Build public/data/airports.json from Commons search (ground-level / terminal photos).
- * Stores CDN URLs + attribution — no binary downloads.
- * Re-run safely: airports with ≥2 images are skipped.
+ * Downloads thumbs into public/images/{IATA}/ and stores local thumbUrl + attribution.
+ * Re-run safely: airports with ≥2 images are skipped; existing image files are not re-downloaded.
  */
 import { writeFileSync, mkdirSync, readFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { localizeAsset, sleep, UA } from './lib/mirror-image.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = join(__dirname, '..')
 const OUT = join(ROOT, 'public', 'data', 'airports.json')
-const UA = 'GuessTheAirport/1.0 (educational game; local development)'
 const API = 'https://commons.wikimedia.org/w/api.php'
 const THUMB_WIDTH = 1280
 
@@ -123,10 +123,6 @@ const EXCLUDE =
 const INCLUDE =
   /airport|terminal|aeroporto|aéroport|flughafen|aeropuerto|havaliman|hall|concourse|check.?in|arrival|depart|gate |curbside|lobby|baggage|plaza|landside/i
 
-async function sleep(ms) {
-  await new Promise((r) => setTimeout(r, ms))
-}
-
 function cleanUrl(u) {
   return String(u || '').split('?')[0]
 }
@@ -208,8 +204,15 @@ async function resolveAirport(entry) {
     for (const asset of results) {
       if (used.has(asset.title)) continue
       used.add(asset.title)
-      images.push(asset)
-      console.log(`  + ${asset.title.slice(0, 70)}`)
+      try {
+        const local = await localizeAsset(entry.iata, asset)
+        images.push(local)
+        console.log(`  + ${asset.title.slice(0, 70)} → ${local.thumbUrl}`)
+        await sleep(250)
+      } catch (e) {
+        console.warn(`  mirror fail (${asset.title}): ${e.message}`)
+        continue
+      }
       if (images.length >= 3) return images
       break
     }

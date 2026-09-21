@@ -16,7 +16,7 @@ A session is a short run of rounds. Miles and best streak stay on your device.
 
 ## Photos and licensing
 
-All photos come from [Wikimedia Commons](https://commons.wikimedia.org/). They are not hosted by this project; the game loads them directly from Commons.
+All photos originate from [Wikimedia Commons](https://commons.wikimedia.org/). Copies are stored under `public/images/` and served from this app (not hotlinked from Commons at play time).
 
 Each image is used under the license chosen by its uploader. That is usually one of:
 
@@ -34,3 +34,10 @@ For every photo shown, the game displays:
 That credit appears in the app so photographers and license terms stay visible while you play. If you reuse a photo elsewhere, follow the license on its Commons file page (credit the author, link the license, and share-alike when the license requires it).
 
 This project does not claim ownership of the photographs.
+
+### Refreshing the image bank
+
+```bash
+npm run ingest          # discover + download new airports (skips those with ≥2 photos)
+npm run mirror-images   # download any remaining remote thumbs into public/images/
+```

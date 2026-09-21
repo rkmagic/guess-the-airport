@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "ingest": "node scripts/ingest-commons.mjs"
+    "ingest": "node scripts/ingest-commons.mjs",
+    "mirror-images": "node scripts/mirror-images.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

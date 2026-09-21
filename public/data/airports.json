@@ -9,7 +9,7 @@
       {
         "title": "Hal-schiphol-plaza-ns.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hal-schiphol-plaza-ns.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hal-schiphol-plaza-ns.jpg",
+        "thumbUrl": "/images/AMS/Hal-schiphol-plaza-ns.jpg",
         "author": "Shirley de Jong",
         "license": "CC BY-SA 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hal-schiphol-plaza-ns.jpg"
@@ -17,7 +17,7 @@
       {
         "title": "Interior of Schiphol Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Interior_of_Schiphol_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Interior_of_Schiphol_Airport.jpg/1280px-Interior_of_Schiphol_Airport.jpg",
+        "thumbUrl": "/images/AMS/Interior_of_Schiphol_Airport.jpg",
         "author": "Daniele Napolitano",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Schiphol_Airport.jpg"
@@ -25,7 +25,7 @@
       {
         "title": "AMS terminal 3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/AMS_terminal_3.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/AMS_terminal_3.jpg/1280px-AMS_terminal_3.jpg",
+        "thumbUrl": "/images/AMS/AMS_terminal_3.jpg",
         "author": "Andrzej Otrębski",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:AMS_terminal_3.jpg"
@@ -42,7 +42,7 @@
       {
         "title": "Heathrow-T1.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Heathrow-T1.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Heathrow-T1.JPG/1280px-Heathrow-T1.JPG",
+        "thumbUrl": "/images/LHR/Heathrow-T1.jpg",
         "author": "Romazur",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heathrow-T1.JPG"
@@ -50,7 +50,7 @@
       {
         "title": "Interior, Heathrow Terminal 5 (geograph 6066290).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Interior%2C_Heathrow_Terminal_5_%28geograph_6066290%29.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Interior%2C_Heathrow_Terminal_5_%28geograph_6066290%29.jpg",
+        "thumbUrl": "/images/LHR/Interior_Heathrow_Terminal_5_geograph_6066290.jpg",
         "author": "Rossographer",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior%2C_Heathrow_Terminal_5_(geograph_6066290).jpg"
@@ -58,7 +58,7 @@
       {
         "title": "Terminal 5 at London Heathrow Airport, 2008.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Terminal_5_at_London_Heathrow_Airport%2C_2008.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Terminal_5_at_London_Heathrow_Airport%2C_2008.jpg/1280px-Terminal_5_at_London_Heathrow_Airport%2C_2008.jpg",
+        "thumbUrl": "/images/LHR/Terminal_5_at_London_Heathrow_Airport_2008.jpg",
         "author": "Warren Rohner",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_5_at_London_Heathrow_Airport%2C_2008.jpg"
@@ -75,7 +75,7 @@
       {
         "title": "Terminal 7 JFK check in hall.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Terminal_7_JFK_check_in_hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Terminal_7_JFK_check_in_hall.jpg/1280px-Terminal_7_JFK_check_in_hall.jpg",
+        "thumbUrl": "/images/JFK/Terminal_7_JFK_check_in_hall.jpg",
         "author": "Quintin Soloviev",
         "license": "CC BY 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_7_JFK_check_in_hall.jpg"
@@ -83,7 +83,7 @@
       {
         "title": "JFK AIRPORT TERMINAL 1 (7507465248).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/JFK_AIRPORT_TERMINAL_1_%287507465248%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/JFK_AIRPORT_TERMINAL_1_%287507465248%29.jpg/1280px-JFK_AIRPORT_TERMINAL_1_%287507465248%29.jpg",
+        "thumbUrl": "/images/JFK/JFK_AIRPORT_TERMINAL_1_7507465248.jpg",
         "author": "Eric Salard",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:JFK_AIRPORT_TERMINAL_1_(7507465248).jpg"
@@ -91,7 +91,7 @@
       {
         "title": "John F. Kennedy International Airport Terminal 8 Departure Hall 20240602.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/John_F._Kennedy_International_Airport_Terminal_8_Departure_Hall_20240602.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/John_F._Kennedy_International_Airport_Terminal_8_Departure_Hall_20240602.jpg/1280px-John_F._Kennedy_International_Airport_Terminal_8_Departure_Hall_20240602.jpg",
+        "thumbUrl": "/images/JFK/John_F._Kennedy_International_Airport_Terminal_8_Departure_Hall_20240602.jpg",
         "author": "颐园居",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy_International_Airport_Terminal_8_Departure_Hall_20240602.jpg"
@@ -106,17 +106,9 @@
     "country": "Japan",
     "images": [
       {
-        "title": "Narita Airport, Terminal 1 (3040989992).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Narita_Airport%2C_Terminal_1_%283040989992%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Narita_Airport%2C_Terminal_1_%283040989992%29.jpg/1280px-Narita_Airport%2C_Terminal_1_%283040989992%29.jpg",
-        "author": "Kentaro Iemoto from Tokyo, Japan",
-        "license": "CC BY-SA 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narita_Airport%2C_Terminal_1_(3040989992).jpg"
-      },
-      {
         "title": "Gate 88 in Narita International Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gate_88_in_Narita_International_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Gate_88_in_Narita_International_Airport.jpg/1280px-Gate_88_in_Narita_International_Airport.jpg",
+        "thumbUrl": "/images/NRT/Gate_88_in_Narita_International_Airport.jpg",
         "author": "Douglas P. Perkins",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gate_88_in_Narita_International_Airport.jpg"
@@ -124,10 +116,18 @@
       {
         "title": "Narita International Airport, Terminal 1, Departure Hall 14.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Narita_International_Airport%2C_Terminal_1%2C_Departure_Hall_14.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Narita_International_Airport%2C_Terminal_1%2C_Departure_Hall_14.JPG/1280px-Narita_International_Airport%2C_Terminal_1%2C_Departure_Hall_14.JPG",
+        "thumbUrl": "/images/NRT/Narita_International_Airport_Terminal_1_Departure_Hall_14.jpg",
         "author": "Terence Ong",
         "license": "CC BY 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narita_International_Airport%2C_Terminal_1%2C_Departure_Hall_14.JPG"
+      },
+      {
+        "title": "Narita International Airport, Terminal 1, Restricted Area 13.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Narita_International_Airport%2C_Terminal_1%2C_Restricted_Area_13.JPG",
+        "thumbUrl": "/images/NRT/Narita_International_Airport_Terminal_1_Restricted_Area_13.jpg",
+        "author": "Terence Ong",
+        "license": "CC BY 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narita_International_Airport%2C_Terminal_1%2C_Restricted_Area_13.JPG"
       }
     ]
   },
@@ -139,28 +139,28 @@
     "country": "United States",
     "images": [
       {
-        "title": "San Francisco International Airport International Terminal.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/San_Francisco_International_Airport_International_Terminal.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/San_Francisco_International_Airport_International_Terminal.jpg/1280px-San_Francisco_International_Airport_International_Terminal.jpg",
-        "author": "Unknown",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Francisco_International_Airport_International_Terminal.jpg"
-      },
-      {
-        "title": "Sfo-intlterminal-interior.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sfo-intlterminal-interior.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sfo-intlterminal-interior.jpg/1280px-Sfo-intlterminal-interior.jpg",
-        "author": "Stickpen",
-        "license": "CC0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sfo-intlterminal-interior.jpg"
-      },
-      {
         "title": "From Terminal 2 of SFO, rain, and reflection of interior lights in the terminal. (6218450375).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/From_Terminal_2_of_SFO%2C_rain%2C_and_reflection_of_interior_lights_in_the_terminal._%286218450375%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/From_Terminal_2_of_SFO%2C_rain%2C_and_reflection_of_interior_lights_in_the_terminal._%286218450375%29.jpg/1280px-From_Terminal_2_of_SFO%2C_rain%2C_and_reflection_of_interior_lights_in_the_terminal._%286218450375%29.jpg",
+        "thumbUrl": "/images/SFO/From_Terminal_2_of_SFO_rain_and_reflection_of_interior_lights_in_the_terminal._6218450375.jpg",
         "author": "Moto \"Club4AG\" Miwa from USA",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:From_Terminal_2_of_SFO%2C_rain%2C_and_reflection_of_interior_lights_in_the_terminal._(6218450375).jpg"
+      },
+      {
+        "title": "SFO International Terminal (5381493063).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/SFO_International_Terminal_%285381493063%29.jpg",
+        "thumbUrl": "/images/SFO/SFO_International_Terminal_5381493063.jpg",
+        "author": "Moto \"Club4AG\" Miwa from USA",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SFO_International_Terminal_(5381493063).jpg"
+      },
+      {
+        "title": "SFO - The new international terminal (5381513749).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/SFO_-_The_new_international_terminal_%285381513749%29.jpg",
+        "thumbUrl": "/images/SFO/SFO_-_The_new_international_terminal_5381513749.jpg",
+        "author": "Moto \"Club4AG\" Miwa from USA",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SFO_-_The_new_international_terminal_(5381513749).jpg"
       }
     ]
   },
@@ -174,7 +174,7 @@
       {
         "title": "Paris-Charles de Gaulle Airport - Terminal 2E.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Paris-Charles_de_Gaulle_Airport_-_Terminal_2E.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Paris-Charles_de_Gaulle_Airport_-_Terminal_2E.JPG/1280px-Paris-Charles_de_Gaulle_Airport_-_Terminal_2E.JPG",
+        "thumbUrl": "/images/CDG/Paris-Charles_de_Gaulle_Airport_-_Terminal_2E.jpg",
         "author": "ProtoplasmaKid",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris-Charles_de_Gaulle_Airport_-_Terminal_2E.JPG"
@@ -182,7 +182,7 @@
       {
         "title": "Paris-cdg-terminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Paris-cdg-terminal.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Paris-cdg-terminal.jpg",
+        "thumbUrl": "/images/CDG/Paris-cdg-terminal.jpg",
         "author": "Unknown",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris-cdg-terminal.jpg"
@@ -190,7 +190,7 @@
       {
         "title": "Charles de Gaulle International Airport in France.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Charles_de_Gaulle_International_Airport_in_France.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Charles_de_Gaulle_International_Airport_in_France.jpg/1280px-Charles_de_Gaulle_International_Airport_in_France.jpg",
+        "thumbUrl": "/images/CDG/Charles_de_Gaulle_International_Airport_in_France.jpg",
         "author": "Wilfredor",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_de_Gaulle_International_Airport_in_France.jpg"
@@ -207,7 +207,7 @@
       {
         "title": "Changi airport terminal interior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Changi_airport_terminal_interior.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Changi_airport_terminal_interior.jpg/1280px-Changi_airport_terminal_interior.jpg",
+        "thumbUrl": "/images/SIN/Changi_airport_terminal_interior.jpg",
         "author": "Unknown",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changi_airport_terminal_interior.jpg"
@@ -215,7 +215,7 @@
       {
         "title": "JewelSingaporeVortex1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/JewelSingaporeVortex1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/JewelSingaporeVortex1.jpg/1280px-JewelSingaporeVortex1.jpg",
+        "thumbUrl": "/images/SIN/JewelSingaporeVortex1.jpg",
         "author": "Matteo Morando",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:JewelSingaporeVortex1.jpg"
@@ -223,7 +223,7 @@
       {
         "title": "Changi Airport Terminal 3.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Changi_Airport_Terminal_3.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Changi_Airport_Terminal_3.JPG/1280px-Changi_Airport_Terminal_3.JPG",
+        "thumbUrl": "/images/SIN/Changi_Airport_Terminal_3.jpg",
         "author": "RoB",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changi_Airport_Terminal_3.JPG"
@@ -238,17 +238,9 @@
     "country": "United Arab Emirates",
     "images": [
       {
-        "title": "Dubai International Airport interior of Terminal 3, 2019, 03.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_03.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_03.jpg/1280px-Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_03.jpg",
-        "author": "Kgbo",
-        "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_03.jpg"
-      },
-      {
         "title": "Dubai International Airport interior of Terminal 3, 2019, 01.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_01.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_01.jpg/1280px-Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_01.jpg",
+        "thumbUrl": "/images/DXB/Dubai_International_Airport_interior_of_Terminal_3_2019_01.jpg",
         "author": "Kgbo",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_01.jpg"
@@ -256,10 +248,18 @@
       {
         "title": "Dubai International Airport interior of Terminal 3, 2019, 02.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_02.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_02.jpg/1280px-Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_02.jpg",
+        "thumbUrl": "/images/DXB/Dubai_International_Airport_interior_of_Terminal_3_2019_02.jpg",
         "author": "Kgbo",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_02.jpg"
+      },
+      {
+        "title": "Dubai International Airport interior of Terminal 3, 2019, 04.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_04.jpg",
+        "thumbUrl": "/images/DXB/Dubai_International_Airport_interior_of_Terminal_3_2019_04.jpg",
+        "author": "Chris Olszewski",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_interior_of_Terminal_3%2C_2019%2C_04.jpg"
       }
     ]
   },
@@ -273,7 +273,7 @@
       {
         "title": "Terminal 2 - Frankfurt International Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Terminal_2_-_Frankfurt_International_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Terminal_2_-_Frankfurt_International_Airport.jpg/1280px-Terminal_2_-_Frankfurt_International_Airport.jpg",
+        "thumbUrl": "/images/FRA/Terminal_2_-_Frankfurt_International_Airport.jpg",
         "author": "uggboy",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_2_-_Frankfurt_International_Airport.jpg"
@@ -281,7 +281,7 @@
       {
         "title": "Frankfurt Flughafen, Terminal 1, Abflughalle B.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Frankfurt_Flughafen%2C_Terminal_1%2C_Abflughalle_B.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Frankfurt_Flughafen%2C_Terminal_1%2C_Abflughalle_B.jpg/1280px-Frankfurt_Flughafen%2C_Terminal_1%2C_Abflughalle_B.jpg",
+        "thumbUrl": "/images/FRA/Frankfurt_Flughafen_Terminal_1_Abflughalle_B.jpg",
         "author": "Donald24",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurt_Flughafen%2C_Terminal_1%2C_Abflughalle_B.jpg"
@@ -289,7 +289,7 @@
       {
         "title": "Information Panel, Terminal 1 at Frankfurt Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Information_Panel%2C_Terminal_1_at_Frankfurt_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Information_Panel%2C_Terminal_1_at_Frankfurt_Airport.jpg/1280px-Information_Panel%2C_Terminal_1_at_Frankfurt_Airport.jpg",
+        "thumbUrl": "/images/FRA/Information_Panel_Terminal_1_at_Frankfurt_Airport.jpg",
         "author": "Rainer Ebert",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Information_Panel%2C_Terminal_1_at_Frankfurt_Airport.jpg"
@@ -306,7 +306,7 @@
       {
         "title": "VHHH baggage claim area.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/VHHH_baggage_claim_area.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/VHHH_baggage_claim_area.jpg/1280px-VHHH_baggage_claim_area.jpg",
+        "thumbUrl": "/images/HKG/VHHH_baggage_claim_area.jpg",
         "author": "Base64",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:VHHH_baggage_claim_area.jpg"
@@ -314,7 +314,7 @@
       {
         "title": "Hong Kong International Airport, Departure Hall, Mar 06.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hong_Kong_International_Airport%2C_Departure_Hall%2C_Mar_06.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hong_Kong_International_Airport%2C_Departure_Hall%2C_Mar_06.JPG/1280px-Hong_Kong_International_Airport%2C_Departure_Hall%2C_Mar_06.JPG",
+        "thumbUrl": "/images/HKG/Hong_Kong_International_Airport_Departure_Hall_Mar_06.jpg",
         "author": "Unknown",
         "license": "Copyrighted free use",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_International_Airport%2C_Departure_Hall%2C_Mar_06.JPG"
@@ -322,7 +322,7 @@
       {
         "title": "Hong Kong International Airport Terminal 1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hong_Kong_International_Airport_Terminal_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hong_Kong_International_Airport_Terminal_1.jpg/1280px-Hong_Kong_International_Airport_Terminal_1.jpg",
+        "thumbUrl": "/images/HKG/Hong_Kong_International_Airport_Terminal_1.jpg",
         "author": "Baycrest",
         "license": "CC BY-SA 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hong_Kong_International_Airport_Terminal_1.jpg"
@@ -337,20 +337,28 @@
     "country": "United States",
     "images": [
       {
-        "title": "Tom Bradley International Terminal curbside.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tom_Bradley_International_Terminal_curbside.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tom_Bradley_International_Terminal_curbside.jpg",
-        "author": "President Rhapsody",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Bradley_International_Terminal_curbside.jpg"
-      },
-      {
         "title": "LAX-International-checkin.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/LAX-International-checkin.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/LAX-International-checkin.JPG/1280px-LAX-International-checkin.JPG",
+        "thumbUrl": "/images/LAX/LAX-International-checkin.jpg",
         "author": "TimBray at en.wikipedia",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:LAX-International-checkin.JPG"
+      },
+      {
+        "title": "LAX Airport (29458140866).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/LAX_Airport_%2829458140866%29.jpg",
+        "thumbUrl": "/images/LAX/LAX_Airport_29458140866.jpg",
+        "author": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LAX_Airport_(29458140866).jpg"
+      },
+      {
+        "title": "LAX Terminal 4 color tunnel 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LAX_Terminal_4_color_tunnel_02.jpg",
+        "thumbUrl": "/images/LAX/LAX_Terminal_4_color_tunnel_02.jpg",
+        "author": "Jengod",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LAX_Terminal_4_color_tunnel_02.jpg"
       }
     ]
   },
@@ -364,7 +372,7 @@
       {
         "title": "Travelators at Sydney Airport Terminal 3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Travelators_at_Sydney_Airport_Terminal_3.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Travelators_at_Sydney_Airport_Terminal_3.jpg/1280px-Travelators_at_Sydney_Airport_Terminal_3.jpg",
+        "thumbUrl": "/images/SYD/Travelators_at_Sydney_Airport_Terminal_3.jpg",
         "author": "Chris Olszewski",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Travelators_at_Sydney_Airport_Terminal_3.jpg"
@@ -372,7 +380,7 @@
       {
         "title": "Sydney Kingsford Smith airport. International departures.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sydney_Kingsford_Smith_airport._International_departures.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Sydney_Kingsford_Smith_airport._International_departures.jpg/1280px-Sydney_Kingsford_Smith_airport._International_departures.jpg",
+        "thumbUrl": "/images/SYD/Sydney_Kingsford_Smith_airport._International_departures.jpg",
         "author": "Maksym Kozlenko",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Kingsford_Smith_airport._International_departures.jpg"
@@ -380,7 +388,7 @@
       {
         "title": "Sydney Kingsford Smith airport. International departures 2.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sydney_Kingsford_Smith_airport._International_departures_2.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_Kingsford_Smith_airport._International_departures_2.jpg/1280px-Sydney_Kingsford_Smith_airport._International_departures_2.jpg",
+        "thumbUrl": "/images/SYD/Sydney_Kingsford_Smith_airport._International_departures_2.jpg",
         "author": "Maksym Kozlenko",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Kingsford_Smith_airport._International_departures_2.jpg"
@@ -397,7 +405,7 @@
       {
         "title": "O'Hare International Airport Terminal 1 Gate C1~C3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/O%27Hare_International_Airport_Terminal_1_Gate_C1~C3.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/O%27Hare_International_Airport_Terminal_1_Gate_C1~C3.jpg/1280px-O%27Hare_International_Airport_Terminal_1_Gate_C1~C3.jpg",
+        "thumbUrl": "/images/ORD/O_Hare_International_Airport_Terminal_1_Gate_C1_C3.jpg",
         "author": "李元顥",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:O'Hare_International_Airport_Terminal_1_Gate_C1~C3.jpg"
@@ -405,7 +413,7 @@
       {
         "title": "Concourse C from 1991.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Concourse_C_from_1991.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Concourse_C_from_1991.jpg/1280px-Concourse_C_from_1991.jpg",
+        "thumbUrl": "/images/ORD/Concourse_C_from_1991.jpg",
         "author": "PhillipC",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concourse_C_from_1991.jpg"
@@ -413,7 +421,7 @@
       {
         "title": "Jet Blue Check In, 10000 West O'Hare Ave, Chicago, IL 60666, USA - Jun 2014.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jet_Blue_Check_In%2C_10000_West_O%27Hare_Ave%2C_Chicago%2C_IL_60666%2C_USA_-_Jun_2014.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jet_Blue_Check_In%2C_10000_West_O%27Hare_Ave%2C_Chicago%2C_IL_60666%2C_USA_-_Jun_2014.jpg/1280px-Jet_Blue_Check_In%2C_10000_West_O%27Hare_Ave%2C_Chicago%2C_IL_60666%2C_USA_-_Jun_2014.jpg",
+        "thumbUrl": "/images/ORD/Jet_Blue_Check_In_10000_West_O_Hare_Ave_Chicago_IL_60666_USA_-_Jun_2014.jpg",
         "author": "WestportWiki",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jet_Blue_Check_In%2C_10000_West_O'Hare_Ave%2C_Chicago%2C_IL_60666%2C_USA_-_Jun_2014.jpg"
@@ -430,26 +438,26 @@
       {
         "title": "Istanbul Airport, Arnavutköy (P1090184).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Istanbul_Airport%2C_Arnavutk%C3%B6y_%28P1090184%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Istanbul_Airport%2C_Arnavutk%C3%B6y_%28P1090184%29.jpg/1280px-Istanbul_Airport%2C_Arnavutk%C3%B6y_%28P1090184%29.jpg",
+        "thumbUrl": "/images/IST/Istanbul_Airport_Arnavutkoy_P1090184.jpg",
         "author": "Matti Blume",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istanbul_Airport%2C_Arnavutk%C3%B6y_(P1090184).jpg"
       },
       {
-        "title": "Istanbul Airport, Arnavutköy (P1090187).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Istanbul_Airport%2C_Arnavutk%C3%B6y_%28P1090187%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Istanbul_Airport%2C_Arnavutk%C3%B6y_%28P1090187%29.jpg/1280px-Istanbul_Airport%2C_Arnavutk%C3%B6y_%28P1090187%29.jpg",
-        "author": "Matti Blume",
-        "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istanbul_Airport%2C_Arnavutk%C3%B6y_(P1090187).jpg"
-      },
-      {
         "title": "Departure hall - Istanbul airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Departure_hall_-_Istanbul_airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Departure_hall_-_Istanbul_airport.jpg/1280px-Departure_hall_-_Istanbul_airport.jpg",
+        "thumbUrl": "/images/IST/Departure_hall_-_Istanbul_airport.jpg",
         "author": "T88288",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Departure_hall_-_Istanbul_airport.jpg"
+      },
+      {
+        "title": "İstanbul Havalimanı Airport 2019 16.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/%C4%B0stanbul_Havaliman%C4%B1_Airport_2019_16.jpg",
+        "thumbUrl": "/images/IST/Istanbul_Havaliman_Airport_2019_16.jpg",
+        "author": "Arne Müseler",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Havaliman%C4%B1_Airport_2019_16.jpg"
       }
     ]
   },
@@ -463,7 +471,7 @@
       {
         "title": "Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG/1280px-Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG",
+        "thumbUrl": "/images/ICN/Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.jpg",
         "author": "Kanchi1979",
         "license": "CC BY 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Incheon-International-Airport-Deperture-lobby-check-in-counter.JPG"
@@ -471,7 +479,7 @@
       {
         "title": "Incheon International Airport Interior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Incheon_International_Airport_Interior.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Incheon_International_Airport_Interior.jpg/1280px-Incheon_International_Airport_Interior.jpg",
+        "thumbUrl": "/images/ICN/Incheon_International_Airport_Interior.jpg",
         "author": "Kmonsoor",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Interior.jpg"
@@ -488,7 +496,7 @@
       {
         "title": "Terminal 4 del aeropuerto de Madrid-Barajas, España, 2013-01-09, DD 01.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_01.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_01.jpg/1280px-Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_01.jpg",
+        "thumbUrl": "/images/MAD/Terminal_4_del_aeropuerto_de_Madrid-Barajas_Espana_2013-01-09_DD_01.jpg",
         "author": "Diego Delso",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_01.jpg"
@@ -496,7 +504,7 @@
       {
         "title": "Terminal 4 del aeropuerto de Madrid-Barajas, España, 2013-01-09, DD 07.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_07.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_07.jpg/1280px-Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_07.jpg",
+        "thumbUrl": "/images/MAD/Terminal_4_del_aeropuerto_de_Madrid-Barajas_Espana_2013-01-09_DD_07.jpg",
         "author": "Diego Delso",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_07.jpg"
@@ -504,7 +512,7 @@
       {
         "title": "Terminal 4 del aeropuerto de Madrid-Barajas, España, 2013-01-09, DD 08.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_08.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_08.jpg/1280px-Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_08.jpg",
+        "thumbUrl": "/images/MAD/Terminal_4_del_aeropuerto_de_Madrid-Barajas_Espana_2013-01-09_DD_08.jpg",
         "author": "Diego Delso",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_08.jpg"
@@ -521,7 +529,7 @@
       {
         "title": "Airport Barcelona Terminal 1 001.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Airport_Barcelona_Terminal_1_001.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Airport_Barcelona_Terminal_1_001.jpg/1280px-Airport_Barcelona_Terminal_1_001.jpg",
+        "thumbUrl": "/images/BCN/Airport_Barcelona_Terminal_1_001.jpg",
         "author": "Nasobema lyricum",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport_Barcelona_Terminal_1_001.jpg"
@@ -529,18 +537,18 @@
       {
         "title": "Airport Barcelona Terminal 1 003.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Airport_Barcelona_Terminal_1_003.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Airport_Barcelona_Terminal_1_003.jpg/1280px-Airport_Barcelona_Terminal_1_003.jpg",
+        "thumbUrl": "/images/BCN/Airport_Barcelona_Terminal_1_003.jpg",
         "author": "Nasobema lyricum",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport_Barcelona_Terminal_1_003.jpg"
       },
       {
-        "title": "Aeropuerto de Barcelona (1322744358).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Aeropuerto_de_Barcelona_%281322744358%29.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Aeropuerto_de_Barcelona_%281322744358%29.jpg",
-        "author": "manuelfloresv",
-        "license": "CC BY 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Barcelona_(1322744358).jpg"
+        "title": "Terminal B.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Terminal_B.JPG",
+        "thumbUrl": "/images/BCN/Terminal_B.jpg",
+        "author": "Grobuonis",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_B.JPG"
       }
     ]
   },
@@ -554,7 +562,7 @@
       {
         "title": "Intérieur-terminal-Rome-Fiumicino.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Int%C3%A9rieur-terminal-Rome-Fiumicino.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Int%C3%A9rieur-terminal-Rome-Fiumicino.JPG/1280px-Int%C3%A9rieur-terminal-Rome-Fiumicino.JPG",
+        "thumbUrl": "/images/FCO/Interieur-terminal-Rome-Fiumicino.jpg",
         "author": "Thierry Caro",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur-terminal-Rome-Fiumicino.JPG"
@@ -562,7 +570,7 @@
       {
         "title": "Aeroporto di Roma-Fiumicino - Departure Gate B 13 inside.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Aeroporto_di_Roma-Fiumicino_-_Departure_Gate_B_13_inside.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Aeroporto_di_Roma-Fiumicino_-_Departure_Gate_B_13_inside.JPG/1280px-Aeroporto_di_Roma-Fiumicino_-_Departure_Gate_B_13_inside.JPG",
+        "thumbUrl": "/images/FCO/Aeroporto_di_Roma-Fiumicino_-_Departure_Gate_B_13_inside.jpg",
         "author": "User:Mattes",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Roma-Fiumicino_-_Departure_Gate_B_13_inside.JPG"
@@ -579,26 +587,26 @@
       {
         "title": "Malpensa Airport terminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Malpensa_Airport_terminal.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Malpensa_Airport_terminal.jpg/1280px-Malpensa_Airport_terminal.jpg",
+        "thumbUrl": "/images/MXP/Malpensa_Airport_terminal.jpg",
         "author": "User:NHRHS2010",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malpensa_Airport_terminal.jpg"
       },
       {
-        "title": "Milano malpensa terminal 1.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Milano_malpensa_terminal_1.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Milano_malpensa_terminal_1.JPG/1280px-Milano_malpensa_terminal_1.JPG",
-        "author": "Trg",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milano_malpensa_terminal_1.JPG"
-      },
-      {
         "title": "Aeroporto di Malpensa 19.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Aeroporto_di_Malpensa_19.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aeroporto_di_Malpensa_19.jpg/1280px-Aeroporto_di_Malpensa_19.jpg",
+        "thumbUrl": "/images/MXP/Aeroporto_di_Malpensa_19.jpg",
         "author": "SIG SG 510",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Malpensa_19.jpg"
+      },
+      {
+        "title": "MalpensaTerminal2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/MalpensaTerminal2.jpg",
+        "thumbUrl": "/images/MXP/MalpensaTerminal2.jpg",
+        "author": "Luca Volpi",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MalpensaTerminal2.jpg"
       }
     ]
   },
@@ -612,7 +620,7 @@
       {
         "title": "Entrance to Terminal 2 Munich Airport - geograph.org.uk - 7739.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Entrance_to_Terminal_2_Munich_Airport_-_geograph.org.uk_-_7739.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Entrance_to_Terminal_2_Munich_Airport_-_geograph.org.uk_-_7739.jpg",
+        "thumbUrl": "/images/MUC/Entrance_to_Terminal_2_Munich_Airport_-_geograph.org.uk_-_7739.jpg",
         "author": "Richard Hoare",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_Terminal_2_Munich_Airport_-_geograph.org.uk_-_7739.jpg"
@@ -620,7 +628,7 @@
       {
         "title": "Munich Airport FJS, Terminal 2 - Skyway to viewing area.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Munich_Airport_FJS%2C_Terminal_2_-_Skyway_to_viewing_area.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Munich_Airport_FJS%2C_Terminal_2_-_Skyway_to_viewing_area.jpg/1280px-Munich_Airport_FJS%2C_Terminal_2_-_Skyway_to_viewing_area.jpg",
+        "thumbUrl": "/images/MUC/Munich_Airport_FJS_Terminal_2_-_Skyway_to_viewing_area.jpg",
         "author": "User:Mattes",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munich_Airport_FJS%2C_Terminal_2_-_Skyway_to_viewing_area.jpg"
@@ -628,7 +636,7 @@
       {
         "title": "Munich Airport, Terminal 2 Level 05 - SFCC.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Munich_Airport%2C_Terminal_2_Level_05_-_SFCC.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Munich_Airport%2C_Terminal_2_Level_05_-_SFCC.jpg/1280px-Munich_Airport%2C_Terminal_2_Level_05_-_SFCC.jpg",
+        "thumbUrl": "/images/MUC/Munich_Airport_Terminal_2_Level_05_-_SFCC.jpg",
         "author": "User:Mattes",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munich_Airport%2C_Terminal_2_Level_05_-_SFCC.jpg"
@@ -645,7 +653,7 @@
       {
         "title": "2007-05-08 Zurich Airport Terminal 1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/2007-05-08_Zurich_Airport_Terminal_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2007-05-08_Zurich_Airport_Terminal_1.jpg/1280px-2007-05-08_Zurich_Airport_Terminal_1.jpg",
+        "thumbUrl": "/images/ZRH/2007-05-08_Zurich_Airport_Terminal_1.jpg",
         "author": "Hansueli Krapf",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:2007-05-08_Zurich_Airport_Terminal_1.jpg"
@@ -653,7 +661,7 @@
       {
         "title": "Kloten - Flughafen - Innenansicht 2011-12-25 17-00-53 (SX230).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kloten_-_Flughafen_-_Innenansicht_2011-12-25_17-00-53_%28SX230%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kloten_-_Flughafen_-_Innenansicht_2011-12-25_17-00-53_%28SX230%29.jpg/1280px-Kloten_-_Flughafen_-_Innenansicht_2011-12-25_17-00-53_%28SX230%29.jpg",
+        "thumbUrl": "/images/ZRH/Kloten_-_Flughafen_-_Innenansicht_2011-12-25_17-00-53_SX230.jpg",
         "author": "Roland zh",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kloten_-_Flughafen_-_Innenansicht_2011-12-25_17-00-53_(SX230).jpg"
@@ -661,7 +669,7 @@
       {
         "title": "Zurich-International-Airport-smoking-lounge.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Zurich-International-Airport-smoking-lounge.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Zurich-International-Airport-smoking-lounge.jpg",
+        "thumbUrl": "/images/ZRH/Zurich-International-Airport-smoking-lounge.jpg",
         "author": "DMS",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zurich-International-Airport-smoking-lounge.jpg"
@@ -678,26 +686,26 @@
       {
         "title": "Vienna terminal 1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vienna_terminal_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vienna_terminal_1.jpg/1280px-Vienna_terminal_1.jpg",
+        "thumbUrl": "/images/VIE/Vienna_terminal_1.jpg",
         "author": "tweekster",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vienna_terminal_1.jpg"
       },
       {
-        "title": "Wien Flughafen Schechat May 2007 018.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Wien_Flughafen_Schechat_May_2007_018.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Wien_Flughafen_Schechat_May_2007_018.jpg/1280px-Wien_Flughafen_Schechat_May_2007_018.jpg",
-        "author": "MyName (Gryffindor)",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_Flughafen_Schechat_May_2007_018.jpg"
-      },
-      {
         "title": "Austria Vienna Airport 2011-09-15 (4).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Austria_Vienna_Airport_2011-09-15_%284%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Austria_Vienna_Airport_2011-09-15_%284%29.jpg/1280px-Austria_Vienna_Airport_2011-09-15_%284%29.jpg",
+        "thumbUrl": "/images/VIE/Austria_Vienna_Airport_2011-09-15_4.jpg",
         "author": "Milan Suvajac",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Austria_Vienna_Airport_2011-09-15_(4).jpg"
+      },
+      {
+        "title": "Vienna airport terminal 3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vienna_airport_terminal_3.jpg",
+        "thumbUrl": "/images/VIE/Vienna_airport_terminal_3.jpg",
+        "author": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vienna_airport_terminal_3.jpg"
       }
     ]
   },
@@ -711,26 +719,26 @@
       {
         "title": "København terminal 3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/K%C3%B8benhavn_terminal_3.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/K%C3%B8benhavn_terminal_3.jpg/1280px-K%C3%B8benhavn_terminal_3.jpg",
+        "thumbUrl": "/images/CPH/K_benhavn_terminal_3.jpg",
         "author": "Photographer: Thorfinn Stainforth",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%B8benhavn_terminal_3.jpg"
       },
       {
-        "title": "Copenhagen Airport Mai 2009 PD 105.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Copenhagen_Airport_Mai_2009_PD_105.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Copenhagen_Airport_Mai_2009_PD_105.JPG/1280px-Copenhagen_Airport_Mai_2009_PD_105.JPG",
-        "author": "Dornum72",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Copenhagen_Airport_Mai_2009_PD_105.JPG"
-      },
-      {
         "title": "Baggage Claim at CPH.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Baggage_Claim_at_CPH.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Baggage_Claim_at_CPH.jpg",
+        "thumbUrl": "/images/CPH/Baggage_Claim_at_CPH.jpg",
         "author": "Duhhitsminerva",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baggage_Claim_at_CPH.jpg"
+      },
+      {
+        "title": "Border control at Copenhagen Airport.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Border_control_at_Copenhagen_Airport.jpg",
+        "thumbUrl": "/images/CPH/Border_control_at_Copenhagen_Airport.jpg",
+        "author": "hirotomo t",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Border_control_at_Copenhagen_Airport.jpg"
       }
     ]
   },
@@ -744,7 +752,7 @@
       {
         "title": "Dublin Airport terminal 2 Jan 09.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dublin_Airport_terminal_2_Jan_09.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Dublin_Airport_terminal_2_Jan_09.jpg/1280px-Dublin_Airport_terminal_2_Jan_09.jpg",
+        "thumbUrl": "/images/DUB/Dublin_Airport_terminal_2_Jan_09.jpg",
         "author": "Edwardmcwilliams at English Wikipedia",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_Airport_terminal_2_Jan_09.jpg"
@@ -752,18 +760,18 @@
       {
         "title": "Self check-in at Dublin Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Self_check-in_at_Dublin_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Self_check-in_at_Dublin_Airport.jpg/1280px-Self_check-in_at_Dublin_Airport.jpg",
+        "thumbUrl": "/images/DUB/Self_check-in_at_Dublin_Airport.jpg",
         "author": "Marek Ślusarczyk (Tupungato) Photo gallery",
         "license": "CC BY 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Self_check-in_at_Dublin_Airport.jpg"
       },
       {
-        "title": "Dublin Airport Terminal 1 Departures Level.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dublin_Airport_Terminal_1_Departures_Level.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dublin_Airport_Terminal_1_Departures_Level.jpg/1280px-Dublin_Airport_Terminal_1_Departures_Level.jpg",
-        "author": "Edwardmcwilliams at English Wikipedia",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_Airport_Terminal_1_Departures_Level.jpg"
+        "title": "Ryanair check in desk (Dublin) in 2025.01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ryanair_check_in_desk_%28Dublin%29_in_2025.01.jpg",
+        "thumbUrl": "/images/DUB/Ryanair_check_in_desk_Dublin_in_2025.01.jpg",
+        "author": "CAPTAIN RAJU",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ryanair_check_in_desk_(Dublin)_in_2025.01.jpg"
       }
     ]
   },
@@ -777,7 +785,7 @@
       {
         "title": "Airport-athens-march-2017-001.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Airport-athens-march-2017-001.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Airport-athens-march-2017-001.jpg",
+        "thumbUrl": "/images/ATH/Airport-athens-march-2017-001.jpg",
         "author": "Rakoon",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport-athens-march-2017-001.jpg"
@@ -785,7 +793,7 @@
       {
         "title": "New Athens International Airport (juillet 2000) - 7.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/New_Athens_International_Airport_%28juillet_2000%29_-_7.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/New_Athens_International_Airport_%28juillet_2000%29_-_7.jpg/1280px-New_Athens_International_Airport_%28juillet_2000%29_-_7.jpg",
+        "thumbUrl": "/images/ATH/New_Athens_International_Airport_juillet_2000_-_7.jpg",
         "author": "AntonyB",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Athens_International_Airport_(juillet_2000)_-_7.jpg"
@@ -793,7 +801,7 @@
       {
         "title": "20181017 athens airport terminal october 2018.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/20181017_athens_airport_terminal_october_2018.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20181017_athens_airport_terminal_october_2018.jpg/1280px-20181017_athens_airport_terminal_october_2018.jpg",
+        "thumbUrl": "/images/ATH/20181017_athens_airport_terminal_october_2018.jpg",
         "author": "Rakoon",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:20181017_athens_airport_terminal_october_2018.jpg"
@@ -810,7 +818,7 @@
       {
         "title": "Brussels National Terminal A.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Brussels_National_Terminal_A.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Brussels_National_Terminal_A.jpg",
+        "thumbUrl": "/images/BRU/Brussels_National_Terminal_A.jpg",
         "author": "storem",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels_National_Terminal_A.jpg"
@@ -818,7 +826,7 @@
       {
         "title": "Brussels Airport pier A 2008.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Brussels_Airport_pier_A_2008.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Brussels_Airport_pier_A_2008.jpg/1280px-Brussels_Airport_pier_A_2008.jpg",
+        "thumbUrl": "/images/BRU/Brussels_Airport_pier_A_2008.jpg",
         "author": "Jérôme",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels_Airport_pier_A_2008.jpg"
@@ -826,7 +834,7 @@
       {
         "title": "BRU terminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/BRU_terminal.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/BRU_terminal.jpg/1280px-BRU_terminal.jpg",
+        "thumbUrl": "/images/BRU/BRU_terminal.jpg",
         "author": "Andrzej Otrębski",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:BRU_terminal.jpg"
@@ -843,7 +851,7 @@
       {
         "title": "Inside Hamad International Airport-Doha,Qatar.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Inside_Hamad_International_Airport-Doha%2CQatar.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Inside_Hamad_International_Airport-Doha%2CQatar.jpg/1280px-Inside_Hamad_International_Airport-Doha%2CQatar.jpg",
+        "thumbUrl": "/images/DOH/Inside_Hamad_International_Airport-Doha_Qatar.jpg",
         "author": "Iash16",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_Hamad_International_Airport-Doha%2CQatar.jpg"
@@ -851,7 +859,7 @@
       {
         "title": "Concourse A at Hamad International Airport-Doha,Qatar.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Concourse_A_at_Hamad_International_Airport-Doha%2CQatar.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Concourse_A_at_Hamad_International_Airport-Doha%2CQatar.jpg/1280px-Concourse_A_at_Hamad_International_Airport-Doha%2CQatar.jpg",
+        "thumbUrl": "/images/DOH/Concourse_A_at_Hamad_International_Airport-Doha_Qatar.jpg",
         "author": "Iash16",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concourse_A_at_Hamad_International_Airport-Doha%2CQatar.jpg"
@@ -859,7 +867,7 @@
       {
         "title": "Check In Gates, Hamad International Airport (DOH) (49189123062).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Check_In_Gates%2C_Hamad_International_Airport_%28DOH%29_%2849189123062%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Check_In_Gates%2C_Hamad_International_Airport_%28DOH%29_%2849189123062%29.jpg/1280px-Check_In_Gates%2C_Hamad_International_Airport_%28DOH%29_%2849189123062%29.jpg",
+        "thumbUrl": "/images/DOH/Check_In_Gates_Hamad_International_Airport_DOH_49189123062.jpg",
         "author": "Andrew Milligan sumo",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Check_In_Gates%2C_Hamad_International_Airport_(DOH)_(49189123062).jpg"
@@ -876,26 +884,26 @@
       {
         "title": "13-08-06-abu-dhabi-airport-01.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/13-08-06-abu-dhabi-airport-01.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/13-08-06-abu-dhabi-airport-01.jpg/1280px-13-08-06-abu-dhabi-airport-01.jpg",
+        "thumbUrl": "/images/AUH/13-08-06-abu-dhabi-airport-01.jpg",
         "author": "Ralf Roletschek",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-airport-01.jpg"
       },
       {
-        "title": "13-08-06-abu-dhabi-airport-04.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/13-08-06-abu-dhabi-airport-04.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/13-08-06-abu-dhabi-airport-04.jpg/1280px-13-08-06-abu-dhabi-airport-04.jpg",
-        "author": "Ralf Roletschek",
-        "license": "CC BY 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-airport-04.jpg"
-      },
-      {
         "title": "13-08-06-abu-dhabi-airport-02.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/13-08-06-abu-dhabi-airport-02.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/13-08-06-abu-dhabi-airport-02.jpg/1280px-13-08-06-abu-dhabi-airport-02.jpg",
+        "thumbUrl": "/images/AUH/13-08-06-abu-dhabi-airport-02.jpg",
         "author": "Ralf Roletschek",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-airport-02.jpg"
+      },
+      {
+        "title": "13-08-06-abu-dhabi-airport-03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/13-08-06-abu-dhabi-airport-03.jpg",
+        "thumbUrl": "/images/AUH/13-08-06-abu-dhabi-airport-03.jpg",
+        "author": "Ralf Roletschek",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-airport-03.jpg"
       }
     ]
   },
@@ -909,7 +917,7 @@
       {
         "title": "Flickr - Bakar 88 - An Internal Path, Cairo Airport Terminal 3 (HDR).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flickr_-_Bakar_88_-_An_Internal_Path%2C_Cairo_Airport_Terminal_3_%28HDR%29.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flickr_-_Bakar_88_-_An_Internal_Path%2C_Cairo_Airport_Terminal_3_%28HDR%29.jpg",
+        "thumbUrl": "/images/CAI/Flickr_-_Bakar_88_-_An_Internal_Path_Cairo_Airport_Terminal_3_HDR.jpg",
         "author": "Andrew A. Shenouda from Cairo, Egypt",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Bakar_88_-_An_Internal_Path%2C_Cairo_Airport_Terminal_3_(HDR).jpg"
@@ -917,7 +925,7 @@
       {
         "title": "Crowded terminal at Cairo Airport during the 2011 Egyptian Protests (1).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Crowded_terminal_at_Cairo_Airport_during_the_2011_Egyptian_Protests_%281%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Crowded_terminal_at_Cairo_Airport_during_the_2011_Egyptian_Protests_%281%29.jpg/1280px-Crowded_terminal_at_Cairo_Airport_during_the_2011_Egyptian_Protests_%281%29.jpg",
+        "thumbUrl": "/images/CAI/Crowded_terminal_at_Cairo_Airport_during_the_2011_Egyptian_Protests_1.jpg",
         "author": "Floris Van Cauwelaert from Brussels, Belgium",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crowded_terminal_at_Cairo_Airport_during_the_2011_Egyptian_Protests_(1).jpg"
@@ -925,7 +933,7 @@
       {
         "title": "CairoAirport-Terminal1.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/CairoAirport-Terminal1.JPG",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/CairoAirport-Terminal1.JPG",
+        "thumbUrl": "/images/CAI/CairoAirport-Terminal1.jpg",
         "author": "Beebah",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoAirport-Terminal1.JPG"
@@ -942,26 +950,26 @@
       {
         "title": "OR Tambo International Airport 2007.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/OR_Tambo_International_Airport_2007.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/OR_Tambo_International_Airport_2007.jpg/1280px-OR_Tambo_International_Airport_2007.jpg",
+        "thumbUrl": "/images/JNB/OR_Tambo_International_Airport_2007.jpg",
         "author": "Kaihsu Tai",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:OR_Tambo_International_Airport_2007.jpg"
       },
       {
-        "title": "Johannesburg Airport.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Johannesburg_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Johannesburg_Airport.jpg/1280px-Johannesburg_Airport.jpg",
-        "author": "George M. Groutas from Idalion, Cyprus",
-        "license": "CC BY 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johannesburg_Airport.jpg"
-      },
-      {
         "title": "O.R. Tambo International Airport Arrivals Hall.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/O.R._Tambo_International_Airport_Arrivals_Hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/O.R._Tambo_International_Airport_Arrivals_Hall.jpg/1280px-O.R._Tambo_International_Airport_Arrivals_Hall.jpg",
+        "thumbUrl": "/images/JNB/O.R._Tambo_International_Airport_Arrivals_Hall.jpg",
         "author": "SpringbokSam",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:O.R._Tambo_International_Airport_Arrivals_Hall.jpg"
+      },
+      {
+        "title": "Internation check-in at JNB.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Internation_check-in_at_JNB.jpg",
+        "thumbUrl": "/images/JNB/Internation_check-in_at_JNB.jpg",
+        "author": "@fry_theonly Flickr",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Internation_check-in_at_JNB.jpg"
       }
     ]
   },
@@ -975,7 +983,7 @@
       {
         "title": "CTIA International Terminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/CTIA_International_Terminal.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/CTIA_International_Terminal.jpg",
+        "thumbUrl": "/images/CPT/CTIA_International_Terminal.jpg",
         "author": "Peter Black",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CTIA_International_Terminal.jpg"
@@ -983,7 +991,7 @@
       {
         "title": "Cape Town International Airport interior (1).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cape_Town_International_Airport_interior_%281%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cape_Town_International_Airport_interior_%281%29.jpg/1280px-Cape_Town_International_Airport_interior_%281%29.jpg",
+        "thumbUrl": "/images/CPT/Cape_Town_International_Airport_interior_1.jpg",
         "author": "Armineaghayan",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_International_Airport_interior_(1).jpg"
@@ -991,7 +999,7 @@
       {
         "title": "Upper level of the domestic terminal at Cape Town International Airport June 2026.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Upper_level_of_the_domestic_terminal_at_Cape_Town_International_Airport_June_2026.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Upper_level_of_the_domestic_terminal_at_Cape_Town_International_Airport_June_2026.jpg/1280px-Upper_level_of_the_domestic_terminal_at_Cape_Town_International_Airport_June_2026.jpg",
+        "thumbUrl": "/images/CPT/Upper_level_of_the_domestic_terminal_at_Cape_Town_International_Airport_June_2026.jpg",
         "author": "Nick-D",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Upper_level_of_the_domestic_terminal_at_Cape_Town_International_Airport_June_2026.jpg"
@@ -1008,7 +1016,7 @@
       {
         "title": "Haneda International Terminal.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Haneda_International_Terminal.JPG",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Haneda_International_Terminal.JPG",
+        "thumbUrl": "/images/HND/Haneda_International_Terminal.jpg",
         "author": "Adkdhc8",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haneda_International_Terminal.JPG"
@@ -1016,7 +1024,7 @@
       {
         "title": "Haneda Bigbird Terminal 2.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Haneda_Bigbird_Terminal_2.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Haneda_Bigbird_Terminal_2.jpg/1280px-Haneda_Bigbird_Terminal_2.jpg",
+        "thumbUrl": "/images/HND/Haneda_Bigbird_Terminal_2.jpg",
         "author": "Unknown",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haneda_Bigbird_Terminal_2.jpg"
@@ -1024,7 +1032,7 @@
       {
         "title": "CHECK IN HALL INTERNATIONAL TERMINAL HANEDA AIRPORT TOKYO JAPAN JUNE 2012 (7413572948).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/CHECK_IN_HALL_INTERNATIONAL_TERMINAL_HANEDA_AIRPORT_TOKYO_JAPAN_JUNE_2012_%287413572948%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/CHECK_IN_HALL_INTERNATIONAL_TERMINAL_HANEDA_AIRPORT_TOKYO_JAPAN_JUNE_2012_%287413572948%29.jpg/1280px-CHECK_IN_HALL_INTERNATIONAL_TERMINAL_HANEDA_AIRPORT_TOKYO_JAPAN_JUNE_2012_%287413572948%29.jpg",
+        "thumbUrl": "/images/HND/CHECK_IN_HALL_INTERNATIONAL_TERMINAL_HANEDA_AIRPORT_TOKYO_JAPAN_JUNE_2012_7413572948.jpg",
         "author": "calflier001",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHECK_IN_HALL_INTERNATIONAL_TERMINAL_HANEDA_AIRPORT_TOKYO_JAPAN_JUNE_2012_(7413572948).jpg"
@@ -1041,7 +1049,7 @@
       {
         "title": "Suvarnabhumi Airport Terminal Building Departures Level.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Suvarnabhumi_Airport_Terminal_Building_Departures_Level.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Suvarnabhumi_Airport_Terminal_Building_Departures_Level.jpg/1280px-Suvarnabhumi_Airport_Terminal_Building_Departures_Level.jpg",
+        "thumbUrl": "/images/BKK/Suvarnabhumi_Airport_Terminal_Building_Departures_Level.jpg",
         "author": "Khaosaming",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suvarnabhumi_Airport_Terminal_Building_Departures_Level.jpg"
@@ -1049,7 +1057,7 @@
       {
         "title": "Suvarnabhumi Airport Departures Hall Bangkok Thailand.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Suvarnabhumi_Airport_Departures_Hall_Bangkok_Thailand.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Suvarnabhumi_Airport_Departures_Hall_Bangkok_Thailand.jpg/1280px-Suvarnabhumi_Airport_Departures_Hall_Bangkok_Thailand.jpg",
+        "thumbUrl": "/images/BKK/Suvarnabhumi_Airport_Departures_Hall_Bangkok_Thailand.jpg",
         "author": "Khaosaming",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suvarnabhumi_Airport_Departures_Hall_Bangkok_Thailand.jpg"
@@ -1057,7 +1065,7 @@
       {
         "title": "Suvarnabhumi Airport, Arrival Hall.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Suvarnabhumi_Airport%2C_Arrival_Hall.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Suvarnabhumi_Airport%2C_Arrival_Hall.JPG/1280px-Suvarnabhumi_Airport%2C_Arrival_Hall.JPG",
+        "thumbUrl": "/images/BKK/Suvarnabhumi_Airport_Arrival_Hall.jpg",
         "author": "Terence Ong",
         "license": "CC BY 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suvarnabhumi_Airport%2C_Arrival_Hall.JPG"
@@ -1072,20 +1080,28 @@
     "country": "Malaysia",
     "images": [
       {
-        "title": "KLIA Terminal 1 05112025 01.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/KLIA_Terminal_1_05112025_01.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/KLIA_Terminal_1_05112025_01.jpg/1280px-KLIA_Terminal_1_05112025_01.jpg",
-        "author": "Rulwarih",
-        "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:KLIA_Terminal_1_05112025_01.jpg"
+        "title": "Check-In KLIA.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Check-In_KLIA.jpg",
+        "thumbUrl": "/images/KUL/Check-In_KLIA.jpg",
+        "author": "Craig",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Check-In_KLIA.jpg"
       },
       {
-        "title": "KL airport departurehall 2007 pano.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/KL_airport_departurehall_2007_pano.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/KL_airport_departurehall_2007_pano.jpg/1280px-KL_airport_departurehall_2007_pano.jpg",
-        "author": "Gryffindor",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:KL_airport_departurehall_2007_pano.jpg"
+        "title": "KLIA2 self-check-in terminals 2016 September.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/KLIA2_self-check-in_terminals_2016_September.jpg",
+        "thumbUrl": "/images/KUL/KLIA2_self-check-in_terminals_2016_September.jpg",
+        "author": "Morio",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:KLIA2_self-check-in_terminals_2016_September.jpg"
+      },
+      {
+        "title": "KLIA2 international departure hall 2016 September 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/KLIA2_international_departure_hall_2016_September_1.jpg",
+        "thumbUrl": "/images/KUL/KLIA2_international_departure_hall_2016_September_1.jpg",
+        "author": "Morio",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:KLIA2_international_departure_hall_2016_September_1.jpg"
       }
     ]
   },
@@ -1099,7 +1115,7 @@
       {
         "title": "CKS Airport Terminal Two.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/CKS_Airport_Terminal_Two.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/CKS_Airport_Terminal_Two.jpg",
+        "thumbUrl": "/images/TPE/CKS_Airport_Terminal_Two.jpg",
         "author": "SElefant",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CKS_Airport_Terminal_Two.jpg"
@@ -1107,7 +1123,7 @@
       {
         "title": "Terminal 2 in Taiwan Taoyuan Intl Airport 03.tif",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Terminal_2_in_Taiwan_Taoyuan_Intl_Airport_03.tif",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Terminal_2_in_Taiwan_Taoyuan_Intl_Airport_03.tif/lossy-page1-1280px-Terminal_2_in_Taiwan_Taoyuan_Intl_Airport_03.tif.jpg",
+        "thumbUrl": "/images/TPE/Terminal_2_in_Taiwan_Taoyuan_Intl_Airport_03.jpg",
         "author": "Illinois_Roadbuff (Rogue Jr)",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_2_in_Taiwan_Taoyuan_Intl_Airport_03.tif"
@@ -1115,7 +1131,7 @@
       {
         "title": "TPE Terminal 2 EVA Air.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/TPE_Terminal_2_EVA_Air.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/TPE_Terminal_2_EVA_Air.jpg",
+        "thumbUrl": "/images/TPE/TPE_Terminal_2_EVA_Air.jpg",
         "author": "Taiwan_Taoyuan_International_Airport_T2_EVA_Air_tails.jpg: Planereality\nderivative work: Altair78 (talk)",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:TPE_Terminal_2_EVA_Air.jpg"
@@ -1132,7 +1148,7 @@
       {
         "title": "Terminal at Shanghai Pudong International Airport 2.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Terminal_at_Shanghai_Pudong_International_Airport_2.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Terminal_at_Shanghai_Pudong_International_Airport_2.jpg/1280px-Terminal_at_Shanghai_Pudong_International_Airport_2.jpg",
+        "thumbUrl": "/images/PVG/Terminal_at_Shanghai_Pudong_International_Airport_2.jpg",
         "author": "Robin van der Vliet",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_at_Shanghai_Pudong_International_Airport_2.jpg"
@@ -1140,7 +1156,7 @@
       {
         "title": "Shanghai Pudong International Airport Interior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Shanghai_Pudong_International_Airport_Interior.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Shanghai_Pudong_International_Airport_Interior.jpg",
+        "thumbUrl": "/images/PVG/Shanghai_Pudong_International_Airport_Interior.jpg",
         "author": "WiNG",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanghai_Pudong_International_Airport_Interior.jpg"
@@ -1148,7 +1164,7 @@
       {
         "title": "PVG The interior of Terminal 1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/PVG_The_interior_of_Terminal_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/PVG_The_interior_of_Terminal_1.jpg/1280px-PVG_The_interior_of_Terminal_1.jpg",
+        "thumbUrl": "/images/PVG/PVG_The_interior_of_Terminal_1.jpg",
         "author": "livepine https://www.flickr.com/photos/livepine/",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:PVG_The_interior_of_Terminal_1.jpg"
@@ -1165,26 +1181,26 @@
       {
         "title": "Indira-Gandhi-Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Indira-Gandhi-Airport.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Indira-Gandhi-Airport.jpg",
+        "thumbUrl": "/images/DEL/Indira-Gandhi-Airport.jpg",
         "author": "en:User:Grubb",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indira-Gandhi-Airport.jpg"
       },
       {
-        "title": "Delhi airport departure terminal 1A (1).JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Delhi_airport_departure_terminal_1A_%281%29.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Delhi_airport_departure_terminal_1A_%281%29.JPG/1280px-Delhi_airport_departure_terminal_1A_%281%29.JPG",
-        "author": "Kprateek88",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_airport_departure_terminal_1A_(1).JPG"
-      },
-      {
         "title": "Delhi airport departure terminal 1A (4).JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Delhi_airport_departure_terminal_1A_%284%29.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Delhi_airport_departure_terminal_1A_%284%29.JPG/1280px-Delhi_airport_departure_terminal_1A_%284%29.JPG",
+        "thumbUrl": "/images/DEL/Delhi_airport_departure_terminal_1A_4.jpg",
         "author": "Kprateek88",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_airport_departure_terminal_1A_(4).JPG"
+      },
+      {
+        "title": "Delhi airport departure terminal 1A (2).JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Delhi_airport_departure_terminal_1A_%282%29.JPG",
+        "thumbUrl": "/images/DEL/Delhi_airport_departure_terminal_1A_2.jpg",
+        "author": "Kprateek88",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_airport_departure_terminal_1A_(2).JPG"
       }
     ]
   },
@@ -1198,7 +1214,7 @@
       {
         "title": "Mumbai International airport T2 boarding gates.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mumbai_International_airport_T2_boarding_gates.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Mumbai_International_airport_T2_boarding_gates.JPG/1280px-Mumbai_International_airport_T2_boarding_gates.JPG",
+        "thumbUrl": "/images/BOM/Mumbai_International_airport_T2_boarding_gates.jpg",
         "author": "Karthik Nadar",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_International_airport_T2_boarding_gates.JPG"
@@ -1206,7 +1222,7 @@
       {
         "title": "Bombay Airport Terminal 1B.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bombay_Airport_Terminal_1B.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bombay_Airport_Terminal_1B.jpg",
+        "thumbUrl": "/images/BOM/Bombay_Airport_Terminal_1B.jpg",
         "author": "Captain Catan",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombay_Airport_Terminal_1B.jpg"
@@ -1214,7 +1230,7 @@
       {
         "title": "Mumbai terminal 1b.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mumbai_terminal_1b.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mumbai_terminal_1b.jpg",
+        "thumbUrl": "/images/BOM/Mumbai_terminal_1b.jpg",
         "author": "w:user:PlaneMad",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_terminal_1b.jpg"
@@ -1231,7 +1247,7 @@
       {
         "title": "Melbourne Airport Terminal 1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Melbourne_Airport_Terminal_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Melbourne_Airport_Terminal_1.jpg/1280px-Melbourne_Airport_Terminal_1.jpg",
+        "thumbUrl": "/images/MEL/Melbourne_Airport_Terminal_1.jpg",
         "author": "Alan Isherwood",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Airport_Terminal_1.jpg"
@@ -1239,7 +1255,7 @@
       {
         "title": "Tullamarine International terminal Vabre-1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tullamarine_International_terminal_Vabre-1.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tullamarine_International_terminal_Vabre-1.jpg",
+        "thumbUrl": "/images/MEL/Tullamarine_International_terminal_Vabre-1.jpg",
         "author": "Phil Vabre",
         "license": "GFDL",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tullamarine_International_terminal_Vabre-1.jpg"
@@ -1247,7 +1263,7 @@
       {
         "title": "Melbourne Airport International Terminal2.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Melbourne_Airport_International_Terminal2.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Melbourne_Airport_International_Terminal2.JPG/1280px-Melbourne_Airport_International_Terminal2.JPG",
+        "thumbUrl": "/images/MEL/Melbourne_Airport_International_Terminal2.jpg",
         "author": "Jnpet",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Airport_International_Terminal2.JPG"
@@ -1262,20 +1278,28 @@
     "country": "New Zealand",
     "images": [
       {
-        "title": "Auckland airport international terminal.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Auckland_airport_international_terminal.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Auckland_airport_international_terminal.jpg/1280px-Auckland_airport_international_terminal.jpg",
-        "author": "No machine-readable author provided. Wangi assumed (based on copyright claims).",
-        "license": "CC BY 2.5",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auckland_airport_international_terminal.jpg"
-      },
-      {
         "title": "Auckland Airport In Main Hall.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Auckland_Airport_In_Main_Hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Auckland_Airport_In_Main_Hall.jpg/1280px-Auckland_Airport_In_Main_Hall.jpg",
+        "thumbUrl": "/images/AKL/Auckland_Airport_In_Main_Hall.jpg",
         "author": "Ingolfson",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auckland_Airport_In_Main_Hall.jpg"
+      },
+      {
+        "title": "Air New Zealand check in hall at Auckland Airport June 2012.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Air_New_Zealand_check_in_hall_at_Auckland_Airport_June_2012.JPG",
+        "thumbUrl": "/images/AKL/Air_New_Zealand_check_in_hall_at_Auckland_Airport_June_2012.jpg",
+        "author": "Nick-D",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_New_Zealand_check_in_hall_at_Auckland_Airport_June_2012.JPG"
+      },
+      {
+        "title": "Auckland international airport from space.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Auckland_international_airport_from_space.jpg",
+        "thumbUrl": "/images/AKL/Auckland_international_airport_from_space.jpg",
+        "author": "NASA",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auckland_international_airport_from_space.jpg"
       }
     ]
   },
@@ -1289,7 +1313,7 @@
       {
         "title": "Concourse F at Hartsfield-Jackson Atlanta International Airport International Terminal - panoramio.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Concourse_F_at_Hartsfield-Jackson_Atlanta_International_Airport_International_Terminal_-_panoramio.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Concourse_F_at_Hartsfield-Jackson_Atlanta_International_Airport_International_Terminal_-_panoramio.jpg/1280px-Concourse_F_at_Hartsfield-Jackson_Atlanta_International_Airport_International_Terminal_-_panoramio.jpg",
+        "thumbUrl": "/images/ATL/Concourse_F_at_Hartsfield-Jackson_Atlanta_International_Airport_International_Terminal_-_panoramio.jpg",
         "author": "qwesy qwesy",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concourse_F_at_Hartsfield-Jackson_Atlanta_International_Airport_International_Terminal_-_panoramio.jpg"
@@ -1297,7 +1321,7 @@
       {
         "title": "Delta check in at ATL.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Delta_check_in_at_ATL.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Delta_check_in_at_ATL.jpg/1280px-Delta_check_in_at_ATL.jpg",
+        "thumbUrl": "/images/ATL/Delta_check_in_at_ATL.jpg",
         "author": "Atlantacitizen",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delta_check_in_at_ATL.jpg"
@@ -1312,17 +1336,9 @@
     "country": "United States",
     "images": [
       {
-        "title": "Terminal D near D15 at DFW Airport (2024).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Terminal_D_near_D15_at_DFW_Airport_%282024%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Terminal_D_near_D15_at_DFW_Airport_%282024%29.jpg/1280px-Terminal_D_near_D15_at_DFW_Airport_%282024%29.jpg",
-        "author": "Chew",
-        "license": "CC BY 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_D_near_D15_at_DFW_Airport_(2024).jpg"
-      },
-      {
         "title": "DFWSkylinkTerminalEStationInterior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/DFWSkylinkTerminalEStationInterior.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/DFWSkylinkTerminalEStationInterior.jpg/1280px-DFWSkylinkTerminalEStationInterior.jpg",
+        "thumbUrl": "/images/DFW/DFWSkylinkTerminalEStationInterior.jpg",
         "author": "DanielPenfield",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:DFWSkylinkTerminalEStationInterior.jpg"
@@ -1330,10 +1346,18 @@
       {
         "title": "Cable-suspended footbridge at DFW terminal D.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cable-suspended_footbridge_at_DFW_terminal_D.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Cable-suspended_footbridge_at_DFW_terminal_D.JPG/1280px-Cable-suspended_footbridge_at_DFW_terminal_D.JPG",
+        "thumbUrl": "/images/DFW/Cable-suspended_footbridge_at_DFW_terminal_D.jpg",
         "author": "Unknown",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cable-suspended_footbridge_at_DFW_terminal_D.JPG"
+      },
+      {
+        "title": "DFW Airport gate C35.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/DFW_Airport_gate_C35.jpg",
+        "thumbUrl": "/images/DFW/DFW_Airport_gate_C35.jpg",
+        "author": "Sammi Brie",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:DFW_Airport_gate_C35.jpg"
       }
     ]
   },
@@ -1347,7 +1371,7 @@
       {
         "title": "Denver International Airport Jeppesen Terminal 2007.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Denver_International_Airport_Jeppesen_Terminal_2007.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Denver_International_Airport_Jeppesen_Terminal_2007.jpg/1280px-Denver_International_Airport_Jeppesen_Terminal_2007.jpg",
+        "thumbUrl": "/images/DEN/Denver_International_Airport_Jeppesen_Terminal_2007.jpg",
         "author": "imtn",
         "license": "CC BY-SA 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Denver_International_Airport_Jeppesen_Terminal_2007.jpg"
@@ -1355,7 +1379,7 @@
       {
         "title": "Denver Colorado Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Denver_Colorado_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Denver_Colorado_Airport.jpg/1280px-Denver_Colorado_Airport.jpg",
+        "thumbUrl": "/images/DEN/Denver_Colorado_Airport.jpg",
         "author": "FlyGuy92586",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Denver_Colorado_Airport.jpg"
@@ -1363,7 +1387,7 @@
       {
         "title": "Denver International Airport terminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Denver_International_Airport_terminal.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Denver_International_Airport_terminal.jpg/1280px-Denver_International_Airport_terminal.jpg",
+        "thumbUrl": "/images/DEN/Denver_International_Airport_terminal.jpg",
         "author": "No machine-readable author provided. Dbenbenn assumed (based on copyright claims).",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Denver_International_Airport_terminal.jpg"
@@ -1380,7 +1404,7 @@
       {
         "title": "SeaTac Airport 02.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/SeaTac_Airport_02.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/SeaTac_Airport_02.jpg/1280px-SeaTac_Airport_02.jpg",
+        "thumbUrl": "/images/SEA/SeaTac_Airport_02.jpg",
         "author": "Joe Mabel",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:SeaTac_Airport_02.jpg"
@@ -1388,18 +1412,18 @@
       {
         "title": "SeaTac Terminal (15638742214).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SeaTac_Terminal_%2815638742214%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/SeaTac_Terminal_%2815638742214%29.jpg/1280px-SeaTac_Terminal_%2815638742214%29.jpg",
+        "thumbUrl": "/images/SEA/SeaTac_Terminal_15638742214.jpg",
         "author": "Atomic Taco from Seattle, WA, USA",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:SeaTac_Terminal_(15638742214).jpg"
       },
       {
-        "title": "SeaTacTerminal.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/SeaTacTerminal.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/SeaTacTerminal.jpg/1280px-SeaTacTerminal.jpg",
-        "author": "Samuel McConnell from Wichita, KS, United States of America",
-        "license": "CC BY-SA 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SeaTacTerminal.jpg"
+        "title": "SEA departure cterminal.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/SEA_departure_cterminal.jpg",
+        "thumbUrl": "/images/SEA/SEA_departure_cterminal.jpg",
+        "author": "AirportTerminalGuy",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SEA_departure_cterminal.jpg"
       }
     ]
   },
@@ -1413,7 +1437,7 @@
       {
         "title": "Terminal J Miami International Airport (KMIA-MIA) (8204617784).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Terminal_J_Miami_International_Airport_%28KMIA-MIA%29_%288204617784%29.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Terminal_J_Miami_International_Airport_%28KMIA-MIA%29_%288204617784%29.jpg",
+        "thumbUrl": "/images/MIA/Terminal_J_Miami_International_Airport_KMIA-MIA_8204617784.jpg",
         "author": "Pablo Andrés Ortega Chávez",
         "license": "GFDL 1.2",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_J_Miami_International_Airport_(KMIA-MIA)_(8204617784).jpg"
@@ -1421,7 +1445,7 @@
       {
         "title": "MIA concourse D view.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/MIA_concourse_D_view.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MIA_concourse_D_view.jpg/1280px-MIA_concourse_D_view.jpg",
+        "thumbUrl": "/images/MIA/MIA_concourse_D_view.jpg",
         "author": "Russland345",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:MIA_concourse_D_view.jpg"
@@ -1429,7 +1453,7 @@
       {
         "title": "1 - Aéroport de Miami - Août 2008.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1_-_A%C3%A9roport_de_Miami_-_Ao%C3%BBt_2008.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1_-_A%C3%A9roport_de_Miami_-_Ao%C3%BBt_2008.jpg/1280px-1_-_A%C3%A9roport_de_Miami_-_Ao%C3%BBt_2008.jpg",
+        "thumbUrl": "/images/MIA/1_-_Aeroport_de_Miami_-_Aout_2008.jpg",
         "author": "Martin St-Amant (S23678)",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_-_A%C3%A9roport_de_Miami_-_Ao%C3%BBt_2008.jpg"
@@ -1446,26 +1470,26 @@
       {
         "title": "Terminal A, Logan International Airport, Boston.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Terminal_A%2C_Logan_International_Airport%2C_Boston.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Terminal_A%2C_Logan_International_Airport%2C_Boston.jpg/1280px-Terminal_A%2C_Logan_International_Airport%2C_Boston.jpg",
+        "thumbUrl": "/images/BOS/Terminal_A_Logan_International_Airport_Boston.jpg",
         "author": "CaribDigita",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_A%2C_Logan_International_Airport%2C_Boston.jpg"
       },
       {
-        "title": "Logan Airport International Arrivals Hall.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Logan_Airport_International_Arrivals_Hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Logan_Airport_International_Arrivals_Hall.jpg/1280px-Logan_Airport_International_Arrivals_Hall.jpg",
-        "author": "hildgrim",
-        "license": "CC BY-SA 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logan_Airport_International_Arrivals_Hall.jpg"
-      },
-      {
         "title": "2011 Logan airport Boston 5528996967.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2011_Logan_airport_Boston_5528996967.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2011_Logan_airport_Boston_5528996967.jpg/1280px-2011_Logan_airport_Boston_5528996967.jpg",
+        "thumbUrl": "/images/BOS/2011_Logan_airport_Boston_5528996967.jpg",
         "author": "Stephen Pierzchala from Marlborough, MA, USA",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:2011_Logan_airport_Boston_5528996967.jpg"
+      },
+      {
+        "title": "Logan Airport Terminal A at night, 11.29.2008.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logan_Airport_Terminal_A_at_night%2C_11.29.2008.jpg",
+        "thumbUrl": "/images/BOS/Logan_Airport_Terminal_A_at_night_11.29.2008.jpg",
+        "author": "Alan Myles NYC",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logan_Airport_Terminal_A_at_night%2C_11.29.2008.jpg"
       }
     ]
   },
@@ -1479,7 +1503,7 @@
       {
         "title": "Toronto Pearson Airport-Terminal 1.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Toronto_Pearson_Airport-Terminal_1.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Toronto_Pearson_Airport-Terminal_1.JPG/1280px-Toronto_Pearson_Airport-Terminal_1.JPG",
+        "thumbUrl": "/images/YYZ/Toronto_Pearson_Airport-Terminal_1.jpg",
         "author": "Qyd",
         "license": "CC BY 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_Pearson_Airport-Terminal_1.JPG"
@@ -1487,7 +1511,7 @@
       {
         "title": "Toronto Pearson Airport - Terminal 1.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Toronto_Pearson_Airport_-_Terminal_1.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Toronto_Pearson_Airport_-_Terminal_1.JPG/1280px-Toronto_Pearson_Airport_-_Terminal_1.JPG",
+        "thumbUrl": "/images/YYZ/Toronto_Pearson_Airport_-_Terminal_1.jpg",
         "author": "Qyd",
         "license": "CC BY 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_Pearson_Airport_-_Terminal_1.JPG"
@@ -1495,7 +1519,7 @@
       {
         "title": "YYZ Terminal 1 domestic arrival hall.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/YYZ_Terminal_1_domestic_arrival_hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/YYZ_Terminal_1_domestic_arrival_hall.jpg/1280px-YYZ_Terminal_1_domestic_arrival_hall.jpg",
+        "thumbUrl": "/images/YYZ/YYZ_Terminal_1_domestic_arrival_hall.jpg",
         "author": "OhanaUnitedTalk page",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:YYZ_Terminal_1_domestic_arrival_hall.jpg"
@@ -1512,7 +1536,7 @@
       {
         "title": "Vancouver-yvr-terminal.id.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vancouver-yvr-terminal.id.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vancouver-yvr-terminal.id.jpg",
+        "thumbUrl": "/images/YVR/Vancouver-yvr-terminal.id.jpg",
         "author": "IDuke",
         "license": "CC BY-SA 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver-yvr-terminal.id.jpg"
@@ -1520,7 +1544,7 @@
       {
         "title": "Vancouver Airport Inside.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vancouver_Airport_Inside.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vancouver_Airport_Inside.jpg",
+        "thumbUrl": "/images/YVR/Vancouver_Airport_Inside.jpg",
         "author": "Iqbal Sikander",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_Airport_Inside.jpg"
@@ -1528,7 +1552,7 @@
       {
         "title": "YVR International Terminal - panoramio.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/YVR_International_Terminal_-_panoramio.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/YVR_International_Terminal_-_panoramio.jpg/1280px-YVR_International_Terminal_-_panoramio.jpg",
+        "thumbUrl": "/images/YVR/YVR_International_Terminal_-_panoramio.jpg",
         "author": "Colin W",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:YVR_International_Terminal_-_panoramio.jpg"
@@ -1545,26 +1569,26 @@
       {
         "title": "Aeropuerto Internacional de la Ciudad de México - Terminal 2 - Área de Salidas.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_-_Terminal_2_-_%C3%81rea_de_Salidas.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_-_Terminal_2_-_%C3%81rea_de_Salidas.jpg/1280px-Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_-_Terminal_2_-_%C3%81rea_de_Salidas.jpg",
+        "thumbUrl": "/images/MEX/Aeropuerto_Internacional_de_la_Ciudad_de_Mexico_-_Terminal_2_-_Area_de_Salidas.jpg",
         "author": "ProtoplasmaKid",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_-_Terminal_2_-_%C3%81rea_de_Salidas.jpg"
       },
       {
-        "title": "Aeropuerto Internacional de la Ciudad de México (vie27sep13) 05.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_%28vie27sep13%29_05.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_%28vie27sep13%29_05.jpg/1280px-Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_%28vie27sep13%29_05.jpg",
-        "author": "Correogsk",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico_(vie27sep13)_05.jpg"
+        "title": "MEX - Mexico City International Airport Dic 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MEX_-_Mexico_City_International_Airport_Dic_2019.jpg",
+        "thumbUrl": "/images/MEX/MEX_-_Mexico_City_International_Airport_Dic_2019.jpg",
+        "author": "Thank You (21 Millions+) views",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MEX_-_Mexico_City_International_Airport_Dic_2019.jpg"
       },
       {
-        "title": "Terminal 2 del AICM 02.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Terminal_2_del_AICM_02.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Terminal_2_del_AICM_02.jpg/1280px-Terminal_2_del_AICM_02.jpg",
-        "author": "Luis Alvaz",
-        "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_2_del_AICM_02.jpg"
+        "title": "Mexico City International Airport (Aeropuerto Internacional de la Ciudad de México) Feb 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Mexico_City_International_Airport_%28Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico%29_Feb_2021.jpg",
+        "thumbUrl": "/images/MEX/Mexico_City_International_Airport_Aeropuerto_Internacional_de_la_Ciudad_de_Mexico_Feb_2021.jpg",
+        "author": "Sharon Hahn Darlin",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mexico_City_International_Airport_(Aeropuerto_Internacional_de_la_Ciudad_de_M%C3%A9xico)_Feb_2021.jpg"
       }
     ]
   },
@@ -1578,7 +1602,7 @@
       {
         "title": "Guarulhos International Airport Sao Paulo Brazil Terminal 1 Wing A.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Guarulhos_International_Airport_Sao_Paulo_Brazil_Terminal_1_Wing_A.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Guarulhos_International_Airport_Sao_Paulo_Brazil_Terminal_1_Wing_A.jpg/1280px-Guarulhos_International_Airport_Sao_Paulo_Brazil_Terminal_1_Wing_A.jpg",
+        "thumbUrl": "/images/GRU/Guarulhos_International_Airport_Sao_Paulo_Brazil_Terminal_1_Wing_A.jpg",
         "author": "Tango21961",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guarulhos_International_Airport_Sao_Paulo_Brazil_Terminal_1_Wing_A.jpg"
@@ -1586,7 +1610,7 @@
       {
         "title": "Aeroporto de Cumbica - Terminal 3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Aeroporto_de_Cumbica_-_Terminal_3.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Aeroporto_de_Cumbica_-_Terminal_3.jpg",
+        "thumbUrl": "/images/GRU/Aeroporto_de_Cumbica_-_Terminal_3.jpg",
         "author": "Portal da Copa",
         "license": "CC BY 3.0 br",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_de_Cumbica_-_Terminal_3.jpg"
@@ -1594,7 +1618,7 @@
       {
         "title": "AeroportoGuarulhos TPS1-Interno.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AeroportoGuarulhos_TPS1-Interno.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/AeroportoGuarulhos_TPS1-Interno.jpg/1280px-AeroportoGuarulhos_TPS1-Interno.jpg",
+        "thumbUrl": "/images/GRU/AeroportoGuarulhos_TPS1-Interno.jpg",
         "author": "Bruno Dantas",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:AeroportoGuarulhos_TPS1-Interno.jpg"
@@ -1611,7 +1635,7 @@
       {
         "title": "Lisbon Airport Arrivals 2008.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lisbon_Airport_Arrivals_2008.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lisbon_Airport_Arrivals_2008.jpg",
+        "thumbUrl": "/images/LIS/Lisbon_Airport_Arrivals_2008.jpg",
         "author": "Xuaxo",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Airport_Arrivals_2008.jpg"
@@ -1619,7 +1643,7 @@
       {
         "title": "Aeroporto de Lisboa (1).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Aeroporto_de_Lisboa_%281%29.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Aeroporto_de_Lisboa_%281%29.jpg",
+        "thumbUrl": "/images/LIS/Aeroporto_de_Lisboa_1.jpg",
         "author": "No machine-readable author provided. Juntas assumed (based on copyright claims).",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroporto_de_Lisboa_(1).jpg"
@@ -1627,7 +1651,7 @@
       {
         "title": "Lisbon airport - panoramio.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Lisbon_airport_-_panoramio.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Lisbon_airport_-_panoramio.jpg/1280px-Lisbon_airport_-_panoramio.jpg",
+        "thumbUrl": "/images/LIS/Lisbon_airport_-_panoramio.jpg",
         "author": "Dora Dragoni",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_airport_-_panoramio.jpg"
@@ -1644,7 +1668,7 @@
       {
         "title": "Oslo Airport, Gardermoen southern domestic concourse.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Oslo_Airport%2C_Gardermoen_southern_domestic_concourse.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Oslo_Airport%2C_Gardermoen_southern_domestic_concourse.jpg/1280px-Oslo_Airport%2C_Gardermoen_southern_domestic_concourse.jpg",
+        "thumbUrl": "/images/OSL/Oslo_Airport_Gardermoen_southern_domestic_concourse.jpg",
         "author": "MeRyan",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oslo_Airport%2C_Gardermoen_southern_domestic_concourse.jpg"
@@ -1652,7 +1676,7 @@
       {
         "title": "Gardermoen check in-hall.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gardermoen_check_in-hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Gardermoen_check_in-hall.jpg/1280px-Gardermoen_check_in-hall.jpg",
+        "thumbUrl": "/images/OSL/Gardermoen_check_in-hall.jpg",
         "author": "Mr. Kjetil Ree",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gardermoen_check_in-hall.jpg"
@@ -1667,20 +1691,28 @@
     "country": "Sweden",
     "images": [
       {
-        "title": "Stockholm-Arlanda Airport Terminal 5 bw.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Stockholm-Arlanda_Airport_Terminal_5_bw.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Stockholm-Arlanda_Airport_Terminal_5_bw.jpg/1280px-Stockholm-Arlanda_Airport_Terminal_5_bw.jpg",
+        "title": "Stockholm-Arlanda Airport Terminal 5 c.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Stockholm-Arlanda_Airport_Terminal_5_c.jpg",
+        "thumbUrl": "/images/ARN/Stockholm-Arlanda_Airport_Terminal_5_c.jpg",
         "author": "Calle Eklund/V-wolf",
         "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholm-Arlanda_Airport_Terminal_5_bw.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholm-Arlanda_Airport_Terminal_5_c.jpg"
       },
       {
-        "title": "Arlanda Terminal 2.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Arlanda_Terminal_2.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arlanda_Terminal_2.JPG/1280px-Arlanda_Terminal_2.JPG",
-        "author": "Alexandar Vujadinovic",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arlanda_Terminal_2.JPG"
+        "title": "Stockholm-Arlanda Airport Terminal 5 inside.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Stockholm-Arlanda_Airport_Terminal_5_inside.JPG",
+        "thumbUrl": "/images/ARN/Stockholm-Arlanda_Airport_Terminal_5_inside.jpg",
+        "author": "Lentokonefani",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholm-Arlanda_Airport_Terminal_5_inside.JPG"
+      },
+      {
+        "title": "Arlanda, Terminal 4, 2015-12-09.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Arlanda%2C_Terminal_4%2C_2015-12-09.jpg",
+        "thumbUrl": "/images/ARN/Arlanda_Terminal_4_2015-12-09.jpg",
+        "author": "Axel Pettersson (WMSE)",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arlanda%2C_Terminal_4%2C_2015-12-09.jpg"
       }
     ]
   },
@@ -1694,7 +1726,7 @@
       {
         "title": "Helsinki-Vantaa Airport - interior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Helsinki-Vantaa_Airport_-_interior.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Helsinki-Vantaa_Airport_-_interior.jpg/1280px-Helsinki-Vantaa_Airport_-_interior.jpg",
+        "thumbUrl": "/images/HEL/Helsinki-Vantaa_Airport_-_interior.jpg",
         "author": "Tiia Monto",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helsinki-Vantaa_Airport_-_interior.jpg"
@@ -1702,7 +1734,7 @@
       {
         "title": "Helsinki-vantaa airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Helsinki-vantaa_airport.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Helsinki-vantaa_airport.jpg",
+        "thumbUrl": "/images/HEL/Helsinki-vantaa_airport.jpg",
         "author": "Anonum123",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helsinki-vantaa_airport.jpg"
@@ -1710,7 +1742,7 @@
       {
         "title": "EFHK departure hall 2 20090930.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/EFHK_departure_hall_2_20090930.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/EFHK_departure_hall_2_20090930.jpg/1280px-EFHK_departure_hall_2_20090930.jpg",
+        "thumbUrl": "/images/HEL/EFHK_departure_hall_2_20090930.jpg",
         "author": "Jaakko",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:EFHK_departure_hall_2_20090930.jpg"
@@ -1727,7 +1759,7 @@
       {
         "title": "Terminal A Warsaw Chopin Airport.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Terminal_A_Warsaw_Chopin_Airport.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Terminal_A_Warsaw_Chopin_Airport.JPG/1280px-Terminal_A_Warsaw_Chopin_Airport.JPG",
+        "thumbUrl": "/images/WAW/Terminal_A_Warsaw_Chopin_Airport.jpg",
         "author": "Adrian Grycuk",
         "license": "CC BY-SA 3.0 pl",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_A_Warsaw_Chopin_Airport.JPG"
@@ -1735,7 +1767,7 @@
       {
         "title": "Okecie - new terminal - 01.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Okecie_-_new_terminal_-_01.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Okecie_-_new_terminal_-_01.JPG/1280px-Okecie_-_new_terminal_-_01.JPG",
+        "thumbUrl": "/images/WAW/Okecie_-_new_terminal_-_01.jpg",
         "author": "User:Piotrus",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Okecie_-_new_terminal_-_01.JPG"
@@ -1752,26 +1784,26 @@
       {
         "title": "Terminal 1 Prague airport 0001.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Terminal_1_Prague_airport_0001.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Terminal_1_Prague_airport_0001.JPG/1280px-Terminal_1_Prague_airport_0001.JPG",
+        "thumbUrl": "/images/PRG/Terminal_1_Prague_airport_0001.jpg",
         "author": "Kenyh Cevarom",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_1_Prague_airport_0001.JPG"
       },
       {
-        "title": "Prg Ruzyne airport 5841.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Prg_Ruzyne_airport_5841.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Prg_Ruzyne_airport_5841.JPG/1280px-Prg_Ruzyne_airport_5841.JPG",
-        "author": "Hynek Moravec",
-        "license": "CC BY 2.5",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prg_Ruzyne_airport_5841.JPG"
-      },
-      {
         "title": "Ruzyně International Airport 2, Prague.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ruzyn%C4%9B_International_Airport_2%2C_Prague.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ruzyn%C4%9B_International_Airport_2%2C_Prague.jpg/1280px-Ruzyn%C4%9B_International_Airport_2%2C_Prague.jpg",
+        "thumbUrl": "/images/PRG/Ruzyne_International_Airport_2_Prague.jpg",
         "author": "Czech Wikipedia user Packa",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruzyn%C4%9B_International_Airport_2%2C_Prague.jpg"
+      },
+      {
+        "title": "Václav Havel Airport Prague – Terminal 1 interior.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/V%C3%A1clav_Havel_Airport_Prague_%E2%80%93_Terminal_1_interior.jpg",
+        "thumbUrl": "/images/PRG/Vaclav_Havel_Airport_Prague_Terminal_1_interior.jpg",
+        "author": "Martin2035",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:V%C3%A1clav_Havel_Airport_Prague_%E2%80%93_Terminal_1_interior.jpg"
       }
     ]
   },
@@ -1785,7 +1817,7 @@
       {
         "title": "Budapest Airport (84325963).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Budapest_Airport_%2884325963%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Budapest_Airport_%2884325963%29.jpg/1280px-Budapest_Airport_%2884325963%29.jpg",
+        "thumbUrl": "/images/BUD/Budapest_Airport_84325963.jpg",
         "author": "Nick Richards from London, UK",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Budapest_Airport_(84325963).jpg"
@@ -1793,7 +1825,7 @@
       {
         "title": "Liszt Ferenc Repuloter 2-es terminal varocsarnok 03.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Liszt_Ferenc_Repuloter_2-es_terminal_varocsarnok_03.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Liszt_Ferenc_Repuloter_2-es_terminal_varocsarnok_03.JPG/1280px-Liszt_Ferenc_Repuloter_2-es_terminal_varocsarnok_03.JPG",
+        "thumbUrl": "/images/BUD/Liszt_Ferenc_Repuloter_2-es_terminal_varocsarnok_03.jpg",
         "author": "Ato 01",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liszt_Ferenc_Repuloter_2-es_terminal_varocsarnok_03.JPG"
@@ -1810,7 +1842,7 @@
       {
         "title": "Departure hall MAN.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Departure_hall_MAN.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Departure_hall_MAN.JPG/1280px-Departure_hall_MAN.JPG",
+        "thumbUrl": "/images/MAN/Departure_hall_MAN.jpg",
         "author": "MKY661",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Departure_hall_MAN.JPG"
@@ -1818,18 +1850,18 @@
       {
         "title": "Manchester Airport Terminal 1 03.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Manchester_Airport_Terminal_1_03.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Manchester_Airport_Terminal_1_03.jpg/1280px-Manchester_Airport_Terminal_1_03.jpg",
+        "thumbUrl": "/images/MAN/Manchester_Airport_Terminal_1_03.jpg",
         "author": "Christian Alexander Tietgen",
         "license": "CC BY 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchester_Airport_Terminal_1_03.jpg"
       },
       {
-        "title": "Manchester Check-In.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Manchester_Check-In.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Manchester_Check-In.JPG/1280px-Manchester_Check-In.JPG",
-        "author": "MKY661",
-        "license": "CC0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchester_Check-In.JPG"
+        "title": "Manchester Airport Terminal 1 08.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Manchester_Airport_Terminal_1_08.jpg",
+        "thumbUrl": "/images/MAN/Manchester_Airport_Terminal_1_08.jpg",
+        "author": "Christian Alexander Tietgen",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchester_Airport_Terminal_1_08.jpg"
       }
     ]
   },
@@ -1843,7 +1875,7 @@
       {
         "title": "Edinburgh Airport gate lounge.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Edinburgh_Airport_gate_lounge.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Edinburgh_Airport_gate_lounge.jpg/1280px-Edinburgh_Airport_gate_lounge.jpg",
+        "thumbUrl": "/images/EDI/Edinburgh_Airport_gate_lounge.jpg",
         "author": "Dbx54",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Airport_gate_lounge.jpg"
@@ -1851,7 +1883,7 @@
       {
         "title": "Edinburgh Airport - geograph.org.uk - 399024.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Edinburgh_Airport_-_geograph.org.uk_-_399024.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Edinburgh_Airport_-_geograph.org.uk_-_399024.jpg",
+        "thumbUrl": "/images/EDI/Edinburgh_Airport_-_geograph.org.uk_-_399024.jpg",
         "author": "Paul McIlroy",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Airport_-_geograph.org.uk_-_399024.jpg"
@@ -1866,20 +1898,28 @@
     "country": "Switzerland",
     "images": [
       {
-        "title": "Aéroport International de Genève (10937605433).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/A%C3%A9roport_International_de_Gen%C3%A8ve_%2810937605433%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/A%C3%A9roport_International_de_Gen%C3%A8ve_%2810937605433%29.jpg/1280px-A%C3%A9roport_International_de_Gen%C3%A8ve_%2810937605433%29.jpg",
-        "author": "abdallahh from Montréal, Canada",
-        "license": "CC BY 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A%C3%A9roport_International_de_Gen%C3%A8ve_(10937605433).jpg"
-      },
-      {
         "title": "Vue-hall-geneve-aeroport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vue-hall-geneve-aeroport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Vue-hall-geneve-aeroport.jpg/1280px-Vue-hall-geneve-aeroport.jpg",
+        "thumbUrl": "/images/GVA/Vue-hall-geneve-aeroport.jpg",
         "author": "Remontees",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue-hall-geneve-aeroport.jpg"
+      },
+      {
+        "title": "Departure board at Geneva Airport.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Departure_board_at_Geneva_Airport.jpg",
+        "thumbUrl": "/images/GVA/Departure_board_at_Geneva_Airport.jpg",
+        "author": "Tiia Monto",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Departure_board_at_Geneva_Airport.jpg"
+      },
+      {
+        "title": "Geneva Airport. TAP Portugal gates (34513337984).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Geneva_Airport._TAP_Portugal_gates_%2834513337984%29.jpg",
+        "thumbUrl": "/images/GVA/Geneva_Airport._TAP_Portugal_gates_34513337984.jpg",
+        "author": "Laura Gilchrist from Kansas City, United States",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geneva_Airport._TAP_Portugal_gates_(34513337984).jpg"
       }
     ]
   },
@@ -1893,7 +1933,7 @@
       {
         "title": "Addis Airport =.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Addis_Airport_%3D.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Addis_Airport_%3D.jpg",
+        "thumbUrl": "/images/ADD/Addis_Airport.jpg",
         "author": "Philip Kromer from Austin, TX",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Addis_Airport_%3D.jpg"
@@ -1901,7 +1941,7 @@
       {
         "title": "Bole Terminal 2 Departures.tif",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bole_Terminal_2_Departures.tif",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bole_Terminal_2_Departures.tif/lossy-page1-1280px-Bole_Terminal_2_Departures.tif.jpg",
+        "thumbUrl": "/images/ADD/Bole_Terminal_2_Departures.jpg",
         "author": "Trinidade",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bole_Terminal_2_Departures.tif"
@@ -1909,7 +1949,7 @@
       {
         "title": "Bole international airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bole_international_airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bole_international_airport.jpg/1280px-Bole_international_airport.jpg",
+        "thumbUrl": "/images/ADD/Bole_international_airport.jpg",
         "author": "Vob08",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bole_international_airport.jpg"
@@ -1926,7 +1966,7 @@
       {
         "title": "Jomo Kenyatta International Airport.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jomo_Kenyatta_International_Airport.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jomo_Kenyatta_International_Airport.jpg",
+        "thumbUrl": "/images/NBO/Jomo_Kenyatta_International_Airport.jpg",
         "author": "Unknown",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_International_Airport.jpg"
@@ -1934,7 +1974,7 @@
       {
         "title": "Jomo Kenyatta International Airport (JKIA).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Jomo_Kenyatta_International_Airport_%28JKIA%29.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Jomo_Kenyatta_International_Airport_%28JKIA%29.jpg",
+        "thumbUrl": "/images/NBO/Jomo_Kenyatta_International_Airport_JKIA.jpg",
         "author": "li  yong",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_International_Airport_(JKIA).jpg"
@@ -1951,7 +1991,7 @@
       {
         "title": "LagosDomesticTerminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LagosDomesticTerminal.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LagosDomesticTerminal.jpg",
+        "thumbUrl": "/images/LOS/LagosDomesticTerminal.jpg",
         "author": "No machine-readable author provided. Aadebayo~commonswiki assumed (based on copyright claims).",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:LagosDomesticTerminal.jpg"
@@ -1959,7 +1999,7 @@
       {
         "title": "2009 airport Lagos Nigeria 6350754168.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/2009_airport_Lagos_Nigeria_6350754168.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/2009_airport_Lagos_Nigeria_6350754168.jpg",
+        "thumbUrl": "/images/LOS/2009_airport_Lagos_Nigeria_6350754168.jpg",
         "author": "crashdburnd",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009_airport_Lagos_Nigeria_6350754168.jpg"
@@ -1967,7 +2007,7 @@
       {
         "title": "Lagos Airport Iwelumo-2.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lagos_Airport_Iwelumo-2.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lagos_Airport_Iwelumo-2.jpg",
+        "thumbUrl": "/images/LOS/Lagos_Airport_Iwelumo-2.jpg",
         "author": "Kenneth Iwelumo",
         "license": "GFDL 1.2",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagos_Airport_Iwelumo-2.jpg"
@@ -1984,7 +2024,7 @@
       {
         "title": "Jakarta Airport 200507-1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_Airport_200507-1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Jakarta_Airport_200507-1.jpg/1280px-Jakarta_Airport_200507-1.jpg",
+        "thumbUrl": "/images/CGK/Jakarta_Airport_200507-1.jpg",
         "author": "Unknown",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakarta_Airport_200507-1.jpg"
@@ -1992,7 +2032,7 @@
       {
         "title": "CGK Terminal 3 1.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/CGK_Terminal_3_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/CGK_Terminal_3_1.jpg/1280px-CGK_Terminal_3_1.jpg",
+        "thumbUrl": "/images/CGK/CGK_Terminal_3_1.jpg",
         "author": "Humboldt",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CGK_Terminal_3_1.jpg"
@@ -2009,7 +2049,7 @@
       {
         "title": "Ninoy Aquino International Airport Terminal 1, 01.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ninoy_Aquino_International_Airport_Terminal_1%2C_01.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ninoy_Aquino_International_Airport_Terminal_1%2C_01.jpg/1280px-Ninoy_Aquino_International_Airport_Terminal_1%2C_01.jpg",
+        "thumbUrl": "/images/MNL/Ninoy_Aquino_International_Airport_Terminal_1_01.jpg",
         "author": "Aliceinthealice",
         "license": "CC0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ninoy_Aquino_International_Airport_Terminal_1%2C_01.jpg"
@@ -2017,18 +2057,18 @@
       {
         "title": "NAIA T3 Interior Arrival Area - Sep 2018.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/NAIA_T3_Interior_Arrival_Area_-_Sep_2018.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/NAIA_T3_Interior_Arrival_Area_-_Sep_2018.jpg/1280px-NAIA_T3_Interior_Arrival_Area_-_Sep_2018.jpg",
+        "thumbUrl": "/images/MNL/NAIA_T3_Interior_Arrival_Area_-_Sep_2018.jpg",
         "author": "RoyKabanlit",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:NAIA_T3_Interior_Arrival_Area_-_Sep_2018.jpg"
       },
       {
-        "title": "NAIA Terminal 4 exterior.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/NAIA_Terminal_4_exterior.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/NAIA_Terminal_4_exterior.JPG/1280px-NAIA_Terminal_4_exterior.JPG",
-        "author": "Josh Lim (Sky Harbor)",
-        "license": "CC BY-SA 3.0 ph",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NAIA_Terminal_4_exterior.JPG"
+        "title": "Ph-mm-pasay-ninoy aquino international airport (naia)-terminal 3 - ticketing hall (2014) a0006.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ph-mm-pasay-ninoy_aquino_international_airport_%28naia%29-terminal_3_-_ticketing_hall_%282014%29_a0006.JPG",
+        "thumbUrl": "/images/MNL/Ph-mm-pasay-ninoy_aquino_international_airport_naia_-terminal_3_-_ticketing_hall_2014_a0006.jpg",
+        "author": "Patrick Roque (talk) (Uploads)",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ph-mm-pasay-ninoy_aquino_international_airport_(naia)-terminal_3_-_ticketing_hall_(2014)_a0006.JPG"
       }
     ]
   },
@@ -2040,28 +2080,28 @@
     "country": "Vietnam",
     "images": [
       {
-        "title": "TanSonNhatIntlTerminal outside.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/TanSonNhatIntlTerminal_outside.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/TanSonNhatIntlTerminal_outside.jpg/1280px-TanSonNhatIntlTerminal_outside.jpg",
-        "author": "Genghiskhanviet",
-        "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:TanSonNhatIntlTerminal_outside.jpg"
-      },
-      {
         "title": "Tan Son Nhat Airport domestic hall.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tan_Son_Nhat_Airport_domestic_hall.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Tan_Son_Nhat_Airport_domestic_hall.JPG/1280px-Tan_Son_Nhat_Airport_domestic_hall.JPG",
+        "thumbUrl": "/images/SGN/Tan_Son_Nhat_Airport_domestic_hall.jpg",
         "author": "Dragfyre",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tan_Son_Nhat_Airport_domestic_hall.JPG"
       },
       {
-        "title": "Tan Son Nhat International Airport, at night.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tan_Son_Nhat_International_Airport%2C_at_night.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Tan_Son_Nhat_International_Airport%2C_at_night.jpg/1280px-Tan_Son_Nhat_International_Airport%2C_at_night.jpg",
-        "author": "Laurdhz",
+        "title": "Airport, Ho Chi Minh (LRM 20230823 150623-RR).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Airport%2C_Ho_Chi_Minh_%28LRM_20230823_150623-RR%29.jpg",
+        "thumbUrl": "/images/SGN/Airport_Ho_Chi_Minh_LRM_20230823_150623-RR.jpg",
+        "author": "Matti Blume",
         "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tan_Son_Nhat_International_Airport%2C_at_night.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport%2C_Ho_Chi_Minh_(LRM_20230823_150623-RR).jpg"
+      },
+      {
+        "title": "Tan Son Nhat International Airport.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tan_Son_Nhat_International_Airport.jpg",
+        "thumbUrl": "/images/SGN/Tan_Son_Nhat_International_Airport.jpg",
+        "author": "Lưu Ly",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tan_Son_Nhat_International_Airport.jpg"
       }
     ]
   },
@@ -2075,7 +2115,7 @@
       {
         "title": "Noi Bai new terminal aux3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Noi_Bai_new_terminal_aux3.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Noi_Bai_new_terminal_aux3.jpg/1280px-Noi_Bai_new_terminal_aux3.jpg",
+        "thumbUrl": "/images/HAN/Noi_Bai_new_terminal_aux3.jpg",
         "author": "[Tycho]",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noi_Bai_new_terminal_aux3.jpg"
@@ -2083,18 +2123,18 @@
       {
         "title": "Noi Bai International Airport, Hanoi (7060112295).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Noi_Bai_International_Airport%2C_Hanoi_%287060112295%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Noi_Bai_International_Airport%2C_Hanoi_%287060112295%29.jpg/1280px-Noi_Bai_International_Airport%2C_Hanoi_%287060112295%29.jpg",
+        "thumbUrl": "/images/HAN/Noi_Bai_International_Airport_Hanoi_7060112295.jpg",
         "author": "David McKelvey from Brisbane, Australia",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noi_Bai_International_Airport%2C_Hanoi_(7060112295).jpg"
       },
       {
-        "title": "Noi Bai International Airport Terminal, Hanoi (6914037042).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Noi_Bai_International_Airport_Terminal%2C_Hanoi_%286914037042%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Noi_Bai_International_Airport_Terminal%2C_Hanoi_%286914037042%29.jpg/1280px-Noi_Bai_International_Airport_Terminal%2C_Hanoi_%286914037042%29.jpg",
-        "author": "David McKelvey from Brisbane, Australia",
-        "license": "CC BY 2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noi_Bai_International_Airport_Terminal%2C_Hanoi_(6914037042).jpg"
+        "title": "Noi Bai new terminal aux4.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Noi_Bai_new_terminal_aux4.JPG",
+        "thumbUrl": "/images/HAN/Noi_Bai_new_terminal_aux4.jpg",
+        "author": "[Tycho]  talk , http://shansov.net",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noi_Bai_new_terminal_aux4.JPG"
       }
     ]
   },
@@ -2106,20 +2146,28 @@
     "country": "China",
     "images": [
       {
-        "title": "Guangzhou Baiyun International Airport Terminal 2 Counter.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Guangzhou_Baiyun_International_Airport_Terminal_2_Counter.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Guangzhou_Baiyun_International_Airport_Terminal_2_Counter.jpg/1280px-Guangzhou_Baiyun_International_Airport_Terminal_2_Counter.jpg",
-        "author": "Jacky Cheung",
-        "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_International_Airport_Terminal_2_Counter.jpg"
-      },
-      {
-        "title": "Interior of Guangzhou Baiyun International Airport Terminal 1.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1.jpg/1280px-Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1.jpg",
+        "title": "Interior of Guangzhou Baiyun International Airport Terminal 1 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1_2022.jpg",
+        "thumbUrl": "/images/CAN/Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1_2022.jpg",
         "author": "钉钉",
         "license": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1_2022.jpg"
+      },
+      {
+        "title": "Interior of Guangzhou Baiyun International Airport Terminal 1 202209.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1_202209.jpg",
+        "thumbUrl": "/images/CAN/Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1_202209.jpg",
+        "author": "钉钉",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Guangzhou_Baiyun_International_Airport_Terminal_1_202209.jpg"
+      },
+      {
+        "title": "Guangzhou Baiyun International Airport Terminal 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Guangzhou_Baiyun_International_Airport_Terminal_2.jpg",
+        "thumbUrl": "/images/CAN/Guangzhou_Baiyun_International_Airport_Terminal_2.jpg",
+        "author": "Jacky Cheung",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_International_Airport_Terminal_2.jpg"
       }
     ]
   },
@@ -2133,7 +2181,7 @@
       {
         "title": "Terminal 3-E in Beijing Capital International Airport.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Terminal_3-E_in_Beijing_Capital_International_Airport.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Terminal_3-E_in_Beijing_Capital_International_Airport.JPG/1280px-Terminal_3-E_in_Beijing_Capital_International_Airport.JPG",
+        "thumbUrl": "/images/PEK/Terminal_3-E_in_Beijing_Capital_International_Airport.jpg",
         "author": "Edwardyu236",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_3-E_in_Beijing_Capital_International_Airport.JPG"
@@ -2141,7 +2189,7 @@
       {
         "title": "Interior of Beijing Capital International Airport Terminal 3.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Interior_of_Beijing_Capital_International_Airport_Terminal_3.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Interior_of_Beijing_Capital_International_Airport_Terminal_3.jpg/1280px-Interior_of_Beijing_Capital_International_Airport_Terminal_3.jpg",
+        "thumbUrl": "/images/PEK/Interior_of_Beijing_Capital_International_Airport_Terminal_3.jpg",
         "author": "The original uploader was Gorillazfeelgoodinc at English Wikipedia.",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Beijing_Capital_International_Airport_Terminal_3.jpg"
@@ -2149,7 +2197,7 @@
       {
         "title": "Beijing Capital International Airport Terminal 3 Interior 20090818.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Beijing_Capital_International_Airport_Terminal_3_Interior_20090818.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Beijing_Capital_International_Airport_Terminal_3_Interior_20090818.jpg/1280px-Beijing_Capital_International_Airport_Terminal_3_Interior_20090818.jpg",
+        "thumbUrl": "/images/PEK/Beijing_Capital_International_Airport_Terminal_3_Interior_20090818.jpg",
         "author": "颐园新居",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beijing_Capital_International_Airport_Terminal_3_Interior_20090818.jpg"
@@ -2164,20 +2212,28 @@
     "country": "India",
     "images": [
       {
-        "title": "Rajiv Gandhi International Airport.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rajiv_Gandhi_International_Airport.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Rajiv_Gandhi_International_Airport.jpg/1280px-Rajiv_Gandhi_International_Airport.jpg",
-        "author": "Premnath Kudva",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajiv_Gandhi_International_Airport.jpg"
-      },
-      {
         "title": "Rajiv Gandhi International Airport Departure Terminal Interior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rajiv_Gandhi_International_Airport_Departure_Terminal_Interior.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rajiv_Gandhi_International_Airport_Departure_Terminal_Interior.jpg",
+        "thumbUrl": "/images/HYD/Rajiv_Gandhi_International_Airport_Departure_Terminal_Interior.jpg",
         "author": "ReetiSingh14",
         "license": "CC BY 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajiv_Gandhi_International_Airport_Departure_Terminal_Interior.jpg"
+      },
+      {
+        "title": "Cafe and Shops in Terminal Rajiv Gandhi International Hyderabad Airport India.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Cafe_and_Shops_in_Terminal_Rajiv_Gandhi_International_Hyderabad_Airport_India.jpg",
+        "thumbUrl": "/images/HYD/Cafe_and_Shops_in_Terminal_Rajiv_Gandhi_International_Hyderabad_Airport_India.jpg",
+        "author": "Amit Chattopadhyay",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cafe_and_Shops_in_Terminal_Rajiv_Gandhi_International_Hyderabad_Airport_India.jpg"
+      },
+      {
+        "title": "Indian Airlines VT-SCF at Rajiv Gandhi Airport, Jan 2012 (2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Indian_Airlines_VT-SCF_at_Rajiv_Gandhi_Airport%2C_Jan_2012_%282%29.jpg",
+        "thumbUrl": "/images/HYD/Indian_Airlines_VT-SCF_at_Rajiv_Gandhi_Airport_Jan_2012_2.jpg",
+        "author": "Arjunaraoc",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Airlines_VT-SCF_at_Rajiv_Gandhi_Airport%2C_Jan_2012_(2).jpg"
       }
     ]
   },
@@ -2191,7 +2247,7 @@
       {
         "title": "OIC perth airport interior departure lounge.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/OIC_perth_airport_interior_departure_lounge.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/OIC_perth_airport_interior_departure_lounge.jpg/1280px-OIC_perth_airport_interior_departure_lounge.jpg",
+        "thumbUrl": "/images/PER/OIC_perth_airport_interior_departure_lounge.jpg",
         "author": "User:Orderinchaos",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:OIC_perth_airport_interior_departure_lounge.jpg"
@@ -2199,7 +2255,7 @@
       {
         "title": "OIC perth airport arrivals hall.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/OIC_perth_airport_arrivals_hall.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/OIC_perth_airport_arrivals_hall.jpg/1280px-OIC_perth_airport_arrivals_hall.jpg",
+        "thumbUrl": "/images/PER/OIC_perth_airport_arrivals_hall.jpg",
         "author": "User:Orderinchaos",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:OIC_perth_airport_arrivals_hall.jpg"
@@ -2207,7 +2263,7 @@
       {
         "title": "Perth Intl check in 2015.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Perth_Intl_check_in_2015.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Perth_Intl_check_in_2015.jpg/1280px-Perth_Intl_check_in_2015.jpg",
+        "thumbUrl": "/images/PER/Perth_Intl_check_in_2015.jpg",
         "author": "Orderinchaos",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perth_Intl_check_in_2015.jpg"
@@ -2224,7 +2280,7 @@
       {
         "title": "Brisbane International Terminal 03.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Brisbane_International_Terminal_03.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Brisbane_International_Terminal_03.jpg/1280px-Brisbane_International_Terminal_03.jpg",
+        "thumbUrl": "/images/BNE/Brisbane_International_Terminal_03.jpg",
         "author": "Kgbo",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brisbane_International_Terminal_03.jpg"
@@ -2232,7 +2288,7 @@
       {
         "title": "Skyway at Brisbane Airport Domestic Terminal 01.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Skyway_at_Brisbane_Airport_Domestic_Terminal_01.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Skyway_at_Brisbane_Airport_Domestic_Terminal_01.jpg/1280px-Skyway_at_Brisbane_Airport_Domestic_Terminal_01.jpg",
+        "thumbUrl": "/images/BNE/Skyway_at_Brisbane_Airport_Domestic_Terminal_01.jpg",
         "author": "Chris Olszewski",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyway_at_Brisbane_Airport_Domestic_Terminal_01.jpg"
@@ -2240,7 +2296,7 @@
       {
         "title": "Brisbane Airport QLD 4008, Australia - panoramio.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Brisbane_Airport_QLD_4008%2C_Australia_-_panoramio.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Brisbane_Airport_QLD_4008%2C_Australia_-_panoramio.jpg/1280px-Brisbane_Airport_QLD_4008%2C_Australia_-_panoramio.jpg",
+        "thumbUrl": "/images/BNE/Brisbane_Airport_QLD_4008_Australia_-_panoramio.jpg",
         "author": "Ché Lydia Xyang",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brisbane_Airport_QLD_4008%2C_Australia_-_panoramio.jpg"
@@ -2257,7 +2313,7 @@
       {
         "title": "Aeropuerto Internacional de Ezeiza - Terminal A - 20070120.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Aeropuerto_Internacional_de_Ezeiza_-_Terminal_A_-_20070120.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Aeropuerto_Internacional_de_Ezeiza_-_Terminal_A_-_20070120.jpg",
+        "thumbUrl": "/images/EZE/Aeropuerto_Internacional_de_Ezeiza_-_Terminal_A_-_20070120.jpg",
         "author": "Matías from Santiago, Chile",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_de_Ezeiza_-_Terminal_A_-_20070120.jpg"
@@ -2265,18 +2321,18 @@
       {
         "title": "Ministro Pistarini International Airport - Terminal A - Buenos Aires.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ministro_Pistarini_International_Airport_-_Terminal_A_-_Buenos_Aires.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Ministro_Pistarini_International_Airport_-_Terminal_A_-_Buenos_Aires.jpg/1280px-Ministro_Pistarini_International_Airport_-_Terminal_A_-_Buenos_Aires.jpg",
+        "thumbUrl": "/images/EZE/Ministro_Pistarini_International_Airport_-_Terminal_A_-_Buenos_Aires.jpg",
         "author": "Mushii",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ministro_Pistarini_International_Airport_-_Terminal_A_-_Buenos_Aires.jpg"
       },
       {
-        "title": "Aeropuerto Internacional de Ezeiza Terminal B.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Aeropuerto_Internacional_de_Ezeiza_Terminal_B.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Aeropuerto_Internacional_de_Ezeiza_Terminal_B.jpg/1280px-Aeropuerto_Internacional_de_Ezeiza_Terminal_B.jpg",
-        "author": "Cadaverexquisito",
-        "license": "CC BY-SA 3.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_de_Ezeiza_Terminal_B.jpg"
+        "title": "Aeropuerto Internacional Ezeiza.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Aeropuerto_Internacional_Ezeiza.jpg",
+        "thumbUrl": "/images/EZE/Aeropuerto_Internacional_Ezeiza.jpg",
+        "author": "Npo80",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_Ezeiza.jpg"
       }
     ]
   },
@@ -2290,7 +2346,7 @@
       {
         "title": "Interior Aeropuerto Santiago.jpeg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Interior_Aeropuerto_Santiago.jpeg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Interior_Aeropuerto_Santiago.jpeg",
+        "thumbUrl": "/images/SCL/Interior_Aeropuerto_Santiago.jpeg",
         "author": "No machine-readable author provided. Martin e212 assumed (based on copyright claims).",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_Aeropuerto_Santiago.jpeg"
@@ -2298,7 +2354,7 @@
       {
         "title": "Terminal Aeropuerto Pudahuel.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Terminal_Aeropuerto_Pudahuel.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Terminal_Aeropuerto_Pudahuel.jpg/1280px-Terminal_Aeropuerto_Pudahuel.jpg",
+        "thumbUrl": "/images/SCL/Terminal_Aeropuerto_Pudahuel.jpg",
         "author": "Phillip Capper from Wellington, New Zealand",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_Aeropuerto_Pudahuel.jpg"
@@ -2315,7 +2371,7 @@
       {
         "title": "El Dorado International Airport 01.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/El_Dorado_International_Airport_01.JPG",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/El_Dorado_International_Airport_01.JPG",
+        "thumbUrl": "/images/BOG/El_Dorado_International_Airport_01.jpg",
         "author": "Ju98 5 at en.wikipedia, retouched by Resize.",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Dorado_International_Airport_01.JPG"
@@ -2323,7 +2379,7 @@
       {
         "title": "Terminal Puente Aereo - Bogotá (8413080126).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Terminal_Puente_Aereo_-_Bogot%C3%A1_%288413080126%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Terminal_Puente_Aereo_-_Bogot%C3%A1_%288413080126%29.jpg/1280px-Terminal_Puente_Aereo_-_Bogot%C3%A1_%288413080126%29.jpg",
+        "thumbUrl": "/images/BOG/Terminal_Puente_Aereo_-_Bogota_8413080126.jpg",
         "author": "Joao Carlos Medau from Campinas, Brazil",
         "license": "CC BY 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_Puente_Aereo_-_Bogot%C3%A1_(8413080126).jpg"
@@ -2331,7 +2387,7 @@
       {
         "title": "The terminal (6926595090).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/The_terminal_%286926595090%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_terminal_%286926595090%29.jpg/1280px-The_terminal_%286926595090%29.jpg",
+        "thumbUrl": "/images/BOG/The_terminal_6926595090.jpg",
         "author": "Bernal Saborio from Costa Rica",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_terminal_(6926595090).jpg"
@@ -2348,7 +2404,7 @@
       {
         "title": "Aeropuerto Internacional Jorge Chávez (1).JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Aeropuerto_Internacional_Jorge_Ch%C3%A1vez_%281%29.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Aeropuerto_Internacional_Jorge_Ch%C3%A1vez_%281%29.JPG/1280px-Aeropuerto_Internacional_Jorge_Ch%C3%A1vez_%281%29.JPG",
+        "thumbUrl": "/images/LIM/Aeropuerto_Internacional_Jorge_Chavez_1.jpg",
         "author": "Rodrigo.Argenton",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_Jorge_Ch%C3%A1vez_(1).JPG"
@@ -2356,7 +2412,7 @@
       {
         "title": "LIM terminal.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/LIM_terminal.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/LIM_terminal.jpg",
+        "thumbUrl": "/images/LIM/LIM_terminal.jpg",
         "author": "Lenny230",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:LIM_terminal.jpg"
@@ -2373,7 +2429,7 @@
       {
         "title": "Lojinhas do Aeroporto Tom Jobim.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lojinhas_do_Aeroporto_Tom_Jobim.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lojinhas_do_Aeroporto_Tom_Jobim.jpg",
+        "thumbUrl": "/images/GIG/Lojinhas_do_Aeroporto_Tom_Jobim.jpg",
         "author": "André Sampaio",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lojinhas_do_Aeroporto_Tom_Jobim.jpg"
@@ -2381,7 +2437,7 @@
       {
         "title": "Aeroportorio.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Aeroportorio.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aeroportorio.jpg/1280px-Aeroportorio.jpg",
+        "thumbUrl": "/images/GIG/Aeroportorio.jpg",
         "author": "Andrevruas",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeroportorio.jpg"
@@ -2389,7 +2445,7 @@
       {
         "title": "GIG - arrival.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/GIG_-_arrival.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/GIG_-_arrival.jpg/1280px-GIG_-_arrival.jpg",
+        "thumbUrl": "/images/GIG/GIG_-_arrival.jpg",
         "author": "Vitorabdala",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:GIG_-_arrival.jpg"
@@ -2406,7 +2462,7 @@
       {
         "title": "2015-04-13 19 12 52 Interior of a gate concourse at Terminal C of Newark Liberty International Airport in Newark, New Jersey.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2015-04-13_19_12_52_Interior_of_a_gate_concourse_at_Terminal_C_of_Newark_Liberty_International_Airport_in_Newark%2C_New_Jersey.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/2015-04-13_19_12_52_Interior_of_a_gate_concourse_at_Terminal_C_of_Newark_Liberty_International_Airport_in_Newark%2C_New_Jersey.jpg/1280px-2015-04-13_19_12_52_Interior_of_a_gate_concourse_at_Terminal_C_of_Newark_Liberty_International_Airport_in_Newark%2C_New_Jersey.jpg",
+        "thumbUrl": "/images/EWR/2015-04-13_19_12_52_Interior_of_a_gate_concourse_at_Terminal_C_of_Newark_Liberty_International_Airport_in_Newark_New_Jer.jpg",
         "author": "Famartin",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015-04-13_19_12_52_Interior_of_a_gate_concourse_at_Terminal_C_of_Newark_Liberty_International_Airport_in_Newark%2C_New_Jersey.jpg"
@@ -2414,7 +2470,7 @@
       {
         "title": "Terminal-c-newark.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Terminal-c-newark.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Terminal-c-newark.JPG/1280px-Terminal-c-newark.JPG",
+        "thumbUrl": "/images/EWR/Terminal-c-newark.jpg",
         "author": "Benutzer:Hecki",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal-c-newark.JPG"
@@ -2422,7 +2478,7 @@
       {
         "title": "EWR Terminal A 2005 night.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/EWR_Terminal_A_2005_night.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/EWR_Terminal_A_2005_night.jpg/1280px-EWR_Terminal_A_2005_night.jpg",
+        "thumbUrl": "/images/EWR/EWR_Terminal_A_2005_night.jpg",
         "author": "Tom Murphy VII",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:EWR_Terminal_A_2005_night.jpg"
@@ -2439,7 +2495,7 @@
       {
         "title": "TerminalCBushAirportHouston.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/TerminalCBushAirportHouston.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/TerminalCBushAirportHouston.JPG/1280px-TerminalCBushAirportHouston.JPG",
+        "thumbUrl": "/images/IAH/TerminalCBushAirportHouston.jpg",
         "author": "WhisperToMe",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:TerminalCBushAirportHouston.JPG"
@@ -2447,7 +2503,7 @@
       {
         "title": "GeorgeBushAirportTerminalE.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/GeorgeBushAirportTerminalE.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/GeorgeBushAirportTerminalE.JPG/1280px-GeorgeBushAirportTerminalE.JPG",
+        "thumbUrl": "/images/IAH/GeorgeBushAirportTerminalE.jpg",
         "author": "WhisperToMe",
         "license": "Public domain",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:GeorgeBushAirportTerminalE.JPG"
@@ -2455,7 +2511,7 @@
       {
         "title": "IAH - George Bush Intercontinental Airport Terminal E - panoramio.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/IAH_-_George_Bush_Intercontinental_Airport_Terminal_E_-_panoramio.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/IAH_-_George_Bush_Intercontinental_Airport_Terminal_E_-_panoramio.jpg/1280px-IAH_-_George_Bush_Intercontinental_Airport_Terminal_E_-_panoramio.jpg",
+        "thumbUrl": "/images/IAH/IAH_-_George_Bush_Intercontinental_Airport_Terminal_E_-_panoramio.jpg",
         "author": "Bohao Zhao",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:IAH_-_George_Bush_Intercontinental_Airport_Terminal_E_-_panoramio.jpg"
@@ -2472,7 +2528,7 @@
       {
         "title": "Sky Harbor - 2005-03-13 - Terminal 4 S2 Concourse Interior.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sky_Harbor_-_2005-03-13_-_Terminal_4_S2_Concourse_Interior.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sky_Harbor_-_2005-03-13_-_Terminal_4_S2_Concourse_Interior.jpg/1280px-Sky_Harbor_-_2005-03-13_-_Terminal_4_S2_Concourse_Interior.jpg",
+        "thumbUrl": "/images/PHX/Sky_Harbor_-_2005-03-13_-_Terminal_4_S2_Concourse_Interior.jpg",
         "author": "Cygnusloop99",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sky_Harbor_-_2005-03-13_-_Terminal_4_S2_Concourse_Interior.jpg"
@@ -2480,7 +2536,7 @@
       {
         "title": "Terminal 3 at Sky Harbor Airport.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Terminal_3_at_Sky_Harbor_Airport.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Terminal_3_at_Sky_Harbor_Airport.JPG/1280px-Terminal_3_at_Sky_Harbor_Airport.JPG",
+        "thumbUrl": "/images/PHX/Terminal_3_at_Sky_Harbor_Airport.jpg",
         "author": "K50 Dude",
         "license": "CC BY 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terminal_3_at_Sky_Harbor_Airport.JPG"
@@ -2497,7 +2553,7 @@
       {
         "title": "MSP Airport Minneapolis skyway 8285632335 o.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MSP_Airport_Minneapolis_skyway_8285632335_o.jpg",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MSP_Airport_Minneapolis_skyway_8285632335_o.jpg",
+        "thumbUrl": "/images/MSP/MSP_Airport_Minneapolis_skyway_8285632335_o.jpg",
         "author": "Tony Webster",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:MSP_Airport_Minneapolis_skyway_8285632335_o.jpg"
@@ -2505,7 +2561,7 @@
       {
         "title": "Minneapolis - St. Paul International Airport 10.JPG",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Minneapolis_-_St._Paul_International_Airport_10.JPG",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Minneapolis_-_St._Paul_International_Airport_10.JPG/1280px-Minneapolis_-_St._Paul_International_Airport_10.JPG",
+        "thumbUrl": "/images/MSP/Minneapolis_-_St._Paul_International_Airport_10.jpg",
         "author": "John Cummings",
         "license": "CC BY-SA 3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minneapolis_-_St._Paul_International_Airport_10.JPG"
@@ -2522,7 +2578,7 @@
       {
         "title": "Orlando international airport atrium.jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Orlando_international_airport_atrium.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Orlando_international_airport_atrium.jpg/1280px-Orlando_international_airport_atrium.jpg",
+        "thumbUrl": "/images/MCO/Orlando_international_airport_atrium.jpg",
         "author": "Larry D. Moore",
         "license": "CC BY 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orlando_international_airport_atrium.jpg"
@@ -2530,7 +2586,7 @@
       {
         "title": "Christmas Tree at Orlando International Airport (31287164385).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Christmas_Tree_at_Orlando_International_Airport_%2831287164385%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Christmas_Tree_at_Orlando_International_Airport_%2831287164385%29.jpg/1280px-Christmas_Tree_at_Orlando_International_Airport_%2831287164385%29.jpg",
+        "thumbUrl": "/images/MCO/Christmas_Tree_at_Orlando_International_Airport_31287164385.jpg",
         "author": "elisfkc from Orlando, FL, United States",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christmas_Tree_at_Orlando_International_Airport_(31287164385).jpg"
@@ -2538,7 +2594,7 @@
       {
         "title": "MCO Terminal C Atrium (52372531355).jpg",
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MCO_Terminal_C_Atrium_%2852372531355%29.jpg",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/MCO_Terminal_C_Atrium_%2852372531355%29.jpg/1280px-MCO_Terminal_C_Atrium_%2852372531355%29.jpg",
+        "thumbUrl": "/images/MCO/MCO_Terminal_C_Atrium_52372531355.jpg",
         "author": "elisfkc2",
         "license": "CC BY-SA 2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:MCO_Terminal_C_Atrium_(52372531355).jpg"
