@@ -6,10 +6,9 @@ type Props = {
   progress: Progress
   airportCount: number
   onPlay: () => void
-  onCredits: () => void
 }
 
-export function HomeScreen({ progress, airportCount, onPlay, onCredits }: Props) {
+export function HomeScreen({ progress, airportCount, onPlay }: Props) {
   return (
     <div className="screen home-screen">
       <div className="home-atmosphere" aria-hidden>
@@ -41,9 +40,17 @@ export function HomeScreen({ progress, airportCount, onPlay, onCredits }: Props)
           </div>
         </div>
         <ShareLink />
-        <button type="button" className="btn btn-ghost" onClick={onCredits}>
-          Photo credits
-        </button>
+        <p className="home-source-note">
+          Photos sourced from{' '}
+          <a
+            href="https://commons.wikimedia.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Wikimedia Commons
+          </a>
+          .
+        </p>
       </div>
     </div>
   )

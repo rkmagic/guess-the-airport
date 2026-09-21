@@ -1,4 +1,5 @@
 import type { Airport } from '../data/airports'
+import { pickHint } from '../data/hints'
 import {
   milestoneBonus,
   pointsForGuess,
@@ -16,6 +17,7 @@ export type RoundState = {
   pointsEarned: number
   bonusEarned: number
   hintUsed: boolean
+  hintText: string | null
 }
 
 export type SessionState = {
@@ -48,6 +50,7 @@ export function createSession(airports: Airport[]): SessionState {
       pointsEarned: 0,
       bonusEarned: 0,
       hintUsed: false,
+      hintText: null,
     })),
     index: 0,
     sessionMiles: 0,
@@ -82,11 +85,12 @@ export function canUseHint(round: RoundState): boolean {
   return round.outcome === null && !round.hintUsed
 }
 
-export function useHint(s: SessionState): SessionState {
+export function useHint(s: SessionState, bank: Airport[]): SessionState {
   const round = currentRound(s)
   if (!round || !canUseHint(round)) return s
+  const hintText = pickHint(round.airport, bank)
   const rounds = s.rounds.map((r, i) =>
-    i === s.index ? { ...r, hintUsed: true } : r,
+    i === s.index ? { ...r, hintUsed: true, hintText } : r,
   )
   return { ...s, rounds }
 }

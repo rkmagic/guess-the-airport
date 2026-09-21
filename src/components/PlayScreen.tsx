@@ -14,7 +14,6 @@ import {
   useHint,
   type SessionState,
 } from '../game/session'
-import { Attribution } from './Attribution'
 import { GuessInput } from './GuessInput'
 import { PhotoStage } from './PhotoStage'
 import { ResultPanel } from './ResultPanel'
@@ -25,13 +24,21 @@ type Props = {
   session: SessionState
   setSession: (s: SessionState) => void
   onFinished: (s: SessionState) => void
+  onQuit: () => void
 }
 
-export function PlayScreen({ airports, session, setSession, onFinished }: Props) {
+export function PlayScreen({
+  airports,
+  session,
+  setSession,
+  onFinished,
+  onQuit,
+}: Props) {
   const options = useMemo(() => toGuessOptions(airports), [airports])
   const round = currentRound(session)
   const [flashMiles, setFlashMiles] = useState<number | null>(null)
   const [wrongPulse, setWrongPulse] = useState(false)
+  const [confirmQuit, setConfirmQuit] = useState(false)
 
   useEffect(() => {
     if (!round) return
@@ -85,6 +92,7 @@ export function PlayScreen({ airports, session, setSession, onFinished }: Props)
         progress={session.progress}
         roundLabel={`${session.index + 1} / ${session.rounds.length}`}
         flashMiles={flashMiles}
+        onQuit={() => setConfirmQuit(true)}
       />
       <PhotoStage
         images={active.airport.images.slice(0, maxPhotos)}
@@ -94,9 +102,9 @@ export function PlayScreen({ airports, session, setSession, onFinished }: Props)
       <div className={`play-dock${wrongPulse ? ' is-wrong' : ''}`}>
         {!decided ? (
           <>
-            {active.hintUsed && (
-              <p className="country-hint" aria-live="polite">
-                Somewhere in {active.airport.country}.
+            {active.hintUsed && active.hintText && (
+              <p className="round-hint" aria-live="polite">
+                {active.hintText}
               </p>
             )}
             <GuessInput options={options} onSubmit={handleGuess} />
@@ -105,7 +113,7 @@ export function PlayScreen({ airports, session, setSession, onFinished }: Props)
                 type="button"
                 className="btn btn-secondary"
                 disabled={!hintAvailable}
-                onClick={() => setSession(useHint(session))}
+                onClick={() => setSession(useHint(session, airports))}
               >
                 Hint
               </button>
@@ -136,39 +144,47 @@ export function PlayScreen({ airports, session, setSession, onFinished }: Props)
           <ResultPanel round={active} onContinue={handleContinue} />
         )}
       </div>
-    </div>
-  )
-}
-
-type CreditsProps = {
-  airports: Airport[]
-  onBack: () => void
-}
-
-export function CreditsScreen({ airports, onBack }: CreditsProps) {
-  const all = airports.flatMap((a) =>
-    a.images.map((img) => ({ ...img, airport: a.iata })),
-  )
-  return (
-    <div className="screen credits-screen">
-      <div className="credits-content">
-        <button type="button" className="btn btn-ghost" onClick={onBack}>
-          ← Back
-        </button>
-        <h1>Photo credits</h1>
-        <p className="home-lede">
-          All photos from Wikimedia Commons. Attribution captured at ingest.
-        </p>
-        {airports.map((a) => (
-          <section key={a.id} className="credits-block">
-            <h2>
-              {a.iata} · {a.name}
-            </h2>
-            <Attribution assets={a.images} />
-          </section>
-        ))}
-        {all.length === 0 && <p>No photos loaded yet.</p>}
-      </div>
+      {confirmQuit && (
+        <div
+          className="confirm-overlay"
+          role="presentation"
+          onClick={() => setConfirmQuit(false)}
+        >
+          <div
+            className="confirm-dialog"
+            role="alertdialog"
+            aria-modal="true"
+            aria-labelledby="quit-title"
+            aria-describedby="quit-desc"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <h2 id="quit-title">Quit this run?</h2>
+            <p id="quit-desc">
+              Current round progress will be lost. Miles and streak already earned
+              stay saved.
+            </p>
+            <div className="confirm-actions">
+              <button
+                type="button"
+                className="btn btn-ghost"
+                onClick={() => setConfirmQuit(false)}
+              >
+                Keep playing
+              </button>
+              <button
+                type="button"
+                className="btn btn-secondary"
+                onClick={() => {
+                  setConfirmQuit(false)
+                  onQuit()
+                }}
+              >
+                Quit to home
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
